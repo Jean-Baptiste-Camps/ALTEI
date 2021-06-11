@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>426_4f9bd_default.jpg</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Tags>
+      <OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/>
+      <OtherTag ID="BT511" LABEL="Damage" DESCRIPTION="block type Damage"/>
+      <OtherTag ID="BT512" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
+      <OtherTag ID="BT513" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+      <OtherTag ID="BT514" LABEL="Figure" DESCRIPTION="block type Figure"/>
+      <OtherTag ID="BT515" LABEL="Main" DESCRIPTION="block type Main"/>
+      <OtherTag ID="BT516" LABEL="Margin" DESCRIPTION="block type Margin"/>
+      <OtherTag ID="BT517"
+                LABEL="MusicNotation"
+                DESCRIPTION="block type MusicNotation"/>
+      <OtherTag ID="BT518" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+      <OtherTag ID="BT519"
+                LABEL="RunningTitle"
+                DESCRIPTION="block type RunningTitle"/>
+      <OtherTag ID="BT520" LABEL="Seal" DESCRIPTION="block type Seal"/>
+      <OtherTag ID="BT521" LABEL="Signatures" DESCRIPTION="block type Signatures"/>
+      <OtherTag ID="BT522" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+      <OtherTag ID="BT523" LABEL="Table" DESCRIPTION="block type Table"/>
+      <OtherTag ID="BT524" LABEL="Title" DESCRIPTION="block type Title"/>
+      <OtherTag ID="LT178" LABEL="Default" DESCRIPTION="line type Default"/>
+      <OtherTag ID="LT179"
+                LABEL="DropCapitalLine"
+                DESCRIPTION="line type DropCapitalLine"/>
+      <OtherTag ID="LT180" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/>
+      <OtherTag ID="LT181" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+      <OtherTag ID="LT182" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+   </Tags>
+   <Layout>
+      <Page WIDTH="4872"
+            HEIGHT="6496"
+            PHYSICAL_IMG_NR="404"
+            ID="eSc_dummypage_">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="4872" HEIGHT="6496">
+            <TextBlock HPOS="170"
+                       VPOS="1272"
+                       WIDTH="286"
+                       HEIGHT="598"
+                       ID="eSc_textblock_f1f985ce"
+                       TAGREFS="BT513">
+               <Shape>
+                  <Polygon POINTS="170 1272 170 1870 456 1870 456 1272"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock HPOS="224"
+                       VPOS="4203"
+                       WIDTH="306"
+                       HEIGHT="340"
+                       ID="eSc_textblock_720b25f8"
+                       TAGREFS="BT513">
+               <Shape>
+                  <Polygon POINTS="224 4203 224 4543 530 4543 530 4203"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock HPOS="1836"
+                       VPOS="3094"
+                       WIDTH="395"
+                       HEIGHT="646"
+                       ID="eSc_textblock_fe2ae06c"
+                       TAGREFS="BT513">
+               <Shape>
+                  <Polygon POINTS="1836 3094 1836 3740 2231 3740 2231 3094"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock HPOS="1843"
+                       VPOS="401"
+                       WIDTH="388"
+                       HEIGHT="578"
+                       ID="eSc_textblock_51520b6a"
+                       TAGREFS="BT513">
+               <Shape>
+                  <Polygon POINTS="1843 401 1843 979 2231 979 2231 401"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock HPOS="197"
+                       VPOS="218"
+                       WIDTH="1809"
+                       HEIGHT="5488"
+                       ID="eSc_textblock_f47f38a1"
+                       TAGREFS="BT515">
+               <Shape>
+                  <Polygon POINTS="197 218 197 5706 2006 5706 1938 252"/>
+               </Shape>
+               <TextLine ID="eSc_line_d5d76d22"
+                         TAGREFS="LT178"
+                         BASELINE="243 416 1264 362 1859 372"
+                         HPOS="238"
+                         VPOS="227"
+                         WIDTH="1618"
+                         HEIGHT="211">ki volt oir chãcũ de beau sẽblãt
+</TextLine>
+               <TextLine ID="eSc_line_ee4ae6e0"
+                         TAGREFS="LT178"
+                         BASELINE="265 535 1812 488"
+                         HPOS="259"
+                         VPOS="384"
+                         WIDTH="1549"
+                         HEIGHT="173">dũt bien ſ̃t fait les v͛s ꝑ ꝯsonãt
+</TextLine>
+               <TextLine ID="eSc_line_c0cf7612"
+                         TAGREFS="LT178"
+                         BASELINE="254 665 1966 632"
+                         HPOS="249"
+                         VPOS="508"
+                         WIDTH="1716"
+                         HEIGHT="179">ore laist la noise si se treie avãt
+</TextLine>
+               <TextLine ID="eSc_line_cfee2d0b"
+                         TAGREFS="LT178"
+                         BASELINE="254 790 1683 763"
+                         HPOS="254"
+                         VPOS="660"
+                         WIDTH="1429"
+                         HEIGHT="162">dirũ la flur de la geste vallãt
+</TextLine>
+               <TextLine ID="eSc_line_086e1bac"
+                         TAGREFS="LT178"
+                         BASELINE="254 914 1667 893"
+                         HPOS="254"
+                         VPOS="790"
+                         WIDTH="1413"
+                         HEIGHT="157">del fiz pepin le noble ꝯbatant
+</TextLine>
+               <TextLine ID="eSc_line_db10574b"
+                         TAGREFS="LT178"
+                         BASELINE="259 1044 1797 1001"
+                         HPOS="259"
+                         VPOS="904"
+                         WIDTH="1538"
+                         HEIGHT="173">des duze pers qͥ s entramerẽt tãt
+</TextLine>
+               <TextLine ID="eSc_line_ffa57de3"
+                         TAGREFS="LT178"
+                         BASELINE="261 1163 1957 1139"
+                         HPOS="259"
+                         VPOS="1039"
+                         WIDTH="1695"
+                         HEIGHT="141">k unc ne severerẽt tͤsk a un jor pesãt
+</TextLine>
+               <TextLine ID="eSc_line_b5a0e769"
+                         TAGREFS="LT178"
+                         BASELINE="249 1299 1936 1278"
+                         HPOS="243"
+                         VPOS="1174"
+                         WIDTH="1689"
+                         HEIGHT="130">ke guenes les tͣí od la salvage gẽt
+</TextLine>
+               <TextLine ID="eSc_line_6680457f"
+                         TAGREFS="LT178"
+                         BASELINE="254 1412 1889 1385"
+                         HPOS="254"
+                         VPOS="1293"
+                         WIDTH="1635"
+                         HEIGHT="141">un jor mururẽt vĩt millier e set cẽt
+</TextLine>
+               <TextLine ID="eSc_line_5208e1fd"
+                         TAGREFS="LT178"
+                         BASELINE="259 1542 1851 1510"
+                         HPOS="259"
+                         VPOS="1418"
+                         WIDTH="1592"
+                         HEIGHT="162">de cel barnage dũt charles ot doel gͣnt
+</TextLine>
+               <TextLine ID="eSc_line_d8c8f0c7"
+                         TAGREFS="LT179"
+                         BASELINE="237 1814 430 1816"
+                         HPOS="232"
+                         VPOS="1770"
+                         WIDTH="195"
+                         HEIGHT="92">cil j́ugleor n ẽ diẽt tãt ne qͣnt
+</TextLine>
+               <TextLine ID="eSc_line_c9da5d50"
+                         TAGREFS="LT178"
+                         BASELINE="449 1656 1894 1629"
+                         HPOS="449"
+                         VPOS="1542"
+                         WIDTH="1445"
+                         HEIGHT="157">tuít l ont leisse k il ne sevẽt níent
+</TextLine>
+               <TextLine ID="eSc_line_e203efbd"
+                         TAGREFS="LT178"
+                         BASELINE="481 1786 1878 1759"
+                         HPOS="481"
+                         VPOS="1672"
+                         WIDTH="1397"
+                         HEIGHT="136">li plusur danger e de l autri chãtãt
+</TextLine>
+               <TextLine ID="eSc_line_0c70bddd"
+                         TAGREFS="LT178"
+                         BASELINE="254 1905 1829 1883"
+                         HPOS="254"
+                         VPOS="1797"
+                         WIDTH="1575"
+                         HEIGHT="146">les paroles menues qͥ l võt ꝯtͦvant
+</TextLine>
+               <TextLine ID="eSc_line_f89a768c"
+                         TAGREFS="LT178"
+                         BASELINE="232 2051 1737 2019"
+                         HPOS="232"
+                         VPOS="1916"
+                         WIDTH="1505"
+                         HEIGHT="157">mes il ne sevẽt mie le gͣnt desturbemẽt
+</TextLine>
+               <TextLine ID="eSc_line_323f57a0"
+                         TAGREFS="LT178"
+                         BASELINE="249 2165 1791 2138"
+                         HPOS="249"
+                         VPOS="2051"
+                         WIDTH="1542"
+                         HEIGHT="157">k avĩt a charlemaine si subitemẽt
+</TextLine>
+               <TextLine ID="eSc_line_418696c7"
+                         TAGREFS="LT178"
+                         BASELINE="249 2295 1710 2268"
+                         HPOS="249"
+                         VPOS="2170"
+                         WIDTH="1461"
+                         HEIGHT="163">seĩgn᷑s co fu le jor dũt li ĩnocẽt sũt
+</TextLine>
+               <TextLine ID="eSc_line_ac6c24f1"
+                         TAGREFS="LT178"
+                         BASELINE="249 2419 1764 2387"
+                         HPOS="249"
+                         VPOS="2300"
+                         WIDTH="1515"
+                         HEIGHT="157">a paris ÷ ẽ fͣnce charles de clermũt
+</TextLine>
+               <TextLine ID="eSc_line_61020396"
+                         TAGREFS="LT178"
+                         BASELINE="265 2533 1651 2522"
+                         HPOS="265"
+                         VPOS="2436"
+                         WIDTH="1386"
+                         HEIGHT="129">u tint sa curt plenere li duze ꝑ i sũt
+</TextLine>
+               <TextLine ID="eSc_line_97833a26"
+                         TAGREFS="LT178"
+                         BASELINE="243 2679 1892 2668"
+                         HPOS="238"
+                         VPOS="2555"
+                         WIDTH="1651"
+                         HEIGHT="151">Ml̃t par est la joie gͣnt q̃ li barũs i funt
+</TextLine>
+               <TextLine ID="eSc_line_35082586"
+                         TAGREFS="LT178"
+                         BASELINE="254 2798 1640 2798"
+                         HPOS="254"
+                         VPOS="2695"
+                         WIDTH="1386"
+                         HEIGHT="141">un plai ont establi k ẽ espaníe irũt
+</TextLine>
+               <TextLine ID="eSc_line_60444dd0"
+                         TAGREFS="LT178"
+                         BASELINE="282 2944 2010 2922"
+                         HPOS="281"
+                         VPOS="2814"
+                         WIDTH="1727"
+                         HEIGHT="141">sur le rei marsilie le seremẽt i funt
+</TextLine>
+               <TextLine ID="eSc_line_5ff99436"
+                         TAGREFS="LT178"
+                         BASELINE="254 3058 1586 3042"
+                         HPOS="254"
+                         VPOS="2950"
+                         WIDTH="1332"
+                         HEIGHT="146">co ert ap͛s av͛il qͣnt h͛be fresche av͛ũt
+</TextLine>
+               <TextLine ID="eSc_line_a9c60276"
+                         TAGREFS="LT178"
+                         BASELINE="254 3183 1654 3165"
+                         HPOS="249"
+                         VPOS="3069"
+                         WIDTH="1402"
+                         HEIGHT="151">eínz q̃ finẽt lur ꝑole teles noveles orũt
+</TextLine>
+               <TextLine ID="eSc_line_6f5e92d0"
+                         TAGREFS="LT178"
+                         BASELINE="254 3307 1916 3285"
+                         HPOS="254"
+                         VPOS="3188"
+                         WIDTH="1662"
+                         HEIGHT="157">dũt vĩt mil cheval͛ de noz fͣnceis murũt
+</TextLine>
+               <TextLine ID="eSc_line_16be527a"
+                         TAGREFS="LT178"
+                         BASELINE="270 3432 1678 3410"
+                         HPOS="270"
+                         VPOS="3318"
+                         WIDTH="1408"
+                         HEIGHT="135">si dãpnedeu n ẽ pẽse qͥ sustẽt tut le mũd
+</TextLine>
+               <TextLine ID="eSc_line_2b56a1bf"
+                         TAGREFS="LT178"
+                         BASELINE="259 3567 1629 3545"
+                         HPOS="259"
+                         VPOS="3442"
+                         WIDTH="1370"
+                         HEIGHT="141">un sarazĩ d espaine qͥ otuel a nun
+</TextLine>
+               <TextLine ID="eSc_line_763059c5"
+                         TAGREFS="LT178"
+                         BASELINE="254 3686 1786 3664"
+                         HPOS="254"
+                         VPOS="3567"
+                         WIDTH="1532"
+                         HEIGHT="151">messag͛ garsie bien resẽble barun
+</TextLine>
+               <TextLine ID="eSc_line_97ef6900"
+                         TAGREFS="LT178"
+                         BASELINE="259 3827 1867 3789"
+                         HPOS="259"
+                         VPOS="3691"
+                         WIDTH="1608"
+                         HEIGHT="168">par mi paris chevalche a coite d espurun
+</TextLine>
+               <TextLine ID="eSc_line_4ce32bc6"
+                         TAGREFS="LT178"
+                         BASELINE="286 3962 1932 3924"
+                         HPOS="286"
+                         VPOS="3816"
+                         WIDTH="1646"
+                         HEIGHT="189">qͣnt vient al paleis si descẽt al perun
+</TextLine>
+               <TextLine ID="eSc_line_3993b54e"
+                         TAGREFS="LT178"
+                         BASELINE="280 4103 1910 4060"
+                         HPOS="276"
+                         VPOS="3967"
+                         WIDTH="1629"
+                         HEIGHT="157">les desgrez mõte si demande charlun
+</TextLine>
+               <TextLine ID="eSc_line_063a2469"
+                         TAGREFS="LT178"
+                         BASELINE="270 4238 1948 4195"
+                         HPOS="270"
+                         VPOS="4092"
+                         WIDTH="1678"
+                         HEIGHT="179">ogier ẽꝯtre e galter e naímun
+</TextLine>
+               <TextLine ID="eSc_line_3eb60124"
+                         TAGREFS="LT179"
+                         BASELINE="259 4493 464 4489"
+                         HPOS="254"
+                         VPOS="4395"
+                         WIDTH="206"
+                         HEIGHT="141">seign᷑ fait li paen kar me mustrez charlũ
+</TextLine>
+               <TextLine ID="eSc_line_1fe5dff5"
+                         TAGREFS="LT178"
+                         BASELINE="508 4357 2033 4352"
+                         HPOS="503"
+                         VPOS="4238"
+                         WIDTH="1527"
+                         HEIGHT="152">messag͛ suí un rei qͥ nel aíme un butũ
+</TextLine>
+               <TextLine ID="eSc_line_d0d2c31a"
+                         TAGREFS="LT178"
+                         BASELINE="503 4498 2074 4486"
+                         HPOS="498"
+                         VPOS="4373"
+                         WIDTH="1575"
+                         HEIGHT="147">prem͛ i a parle galter cil de valun
+</TextLine>
+               <TextLine ID="eSc_line_49b9625b"
+                         TAGREFS="LT178"
+                         BASELINE="286 4628 1882 4627"
+                         HPOS="281"
+                         VPOS="4520"
+                         WIDTH="1597"
+                         HEIGHT="130">veí le tu la u set a cel fluri gernun
+</TextLine>
+               <TextLine ID="eSc_line_de77f309"
+                         TAGREFS="LT178"
+                         BASELINE="292 4747 1973 4746"
+                         HPOS="286"
+                         VPOS="4644"
+                         WIDTH="1684"
+                         HEIGHT="125">celuí o la gͣnt barbe a cel veir pelicun
+</TextLine>
+               <TextLine ID="eSc_line_c83bdec6"
+                         TAGREFS="LT178"
+                         BASELINE="308 4872 1873 4872"
+                         HPOS="308"
+                         VPOS="4758"
+                         WIDTH="1565"
+                         HEIGHT="141">co est rolland si níes el v͛meil ciclatun
+</TextLine>
+               <TextLine ID="eSc_line_23622295"
+                         TAGREFS="LT178"
+                         BASELINE="297 5001 1786 5009"
+                         HPOS="292"
+                         VPOS="4882"
+                         WIDTH="1488"
+                         HEIGHT="136">de l altͤ part veez u síet son ꝯpaignũ
+</TextLine>
+               <TextLine ID="eSc_line_64b73a46"
+                         TAGREFS="LT178"
+                         BASELINE="297 5148 2033 5147"
+                         HPOS="292"
+                         VPOS="5023"
+                         WIDTH="1738"
+                         HEIGHT="141">le gẽtil ꝯte qͥ oliv͛ a nun
+</TextLine>
+               <TextLine ID="eSc_line_80de600f"
+                         TAGREFS="LT178"
+                         BASELINE="297 5267 1964 5269"
+                         HPOS="292"
+                         VPOS="5164"
+                         WIDTH="1667"
+                         HEIGHT="124">co sũt li duze pier qͥ lur sũt ẽvírun
+</TextLine>
+               <TextLine ID="eSc_line_ad311037"
+                         TAGREFS="LT178"
+                         BASELINE="297 5397 2031 5416"
+                         HPOS="292"
+                         VPOS="5278"
+                         WIDTH="1738"
+                         HEIGHT="156">mahun fait li paen ore conus jo charlũ
+</TextLine>
+               <TextLine ID="eSc_line_d35cde42"
+                         TAGREFS="LT178"
+                         BASELINE="292 5532 1845 5527"
+                         HPOS="292"
+                         VPOS="5418"
+                         WIDTH="1553"
+                         HEIGHT="163">mal feu e male flãbe li arde le mẽtũ
+</TextLine>
+               <TextLine ID="eSc_line_44d7ff4e"
+                         TAGREFS="LT178"
+                         BASELINE="311 5665 1858 5655"
+                         HPOS="308"
+                         VPOS="5537"
+                         WIDTH="1548"
+                         HEIGHT="179">ke li fẽde le piz desk al talun
+</TextLine>
+            </TextBlock>
+            <TextBlock HPOS="1959"
+                       VPOS="211"
+                       WIDTH="1734"
+                       HEIGHT="5515"
+                       ID="eSc_textblock_4b52b51b"
+                       TAGREFS="BT515">
+               <Shape>
+                  <Polygon POINTS="1959 211 1959 5726 3693 5726 3693 211"/>
+               </Shape>
+               <Tex

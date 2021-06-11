@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>425_9077b_default.jpg</fileName>
+      </sourceImageInformation>
+   </Description>
+   <Tags>
+      <OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/>
+      <OtherTag ID="BT511" LABEL="Damage" DESCRIPTION="block type Damage"/>
+      <OtherTag ID="BT512" LABEL="Decoration" DESCRIPTION="block type Decoration"/>
+      <OtherTag ID="BT513" LABEL="DropCapital" DESCRIPTION="block type DropCapital"/>
+      <OtherTag ID="BT514" LABEL="Figure" DESCRIPTION="block type Figure"/>
+      <OtherTag ID="BT515" LABEL="Main" DESCRIPTION="block type Main"/>
+      <OtherTag ID="BT516" LABEL="Margin" DESCRIPTION="block type Margin"/>
+      <OtherTag ID="BT517"
+                LABEL="MusicNotation"
+                DESCRIPTION="block type MusicNotation"/>
+      <OtherTag ID="BT518" LABEL="Numbering" DESCRIPTION="block type Numbering"/>
+      <OtherTag ID="BT519"
+                LABEL="RunningTitle"
+                DESCRIPTION="block type RunningTitle"/>
+      <OtherTag ID="BT520" LABEL="Seal" DESCRIPTION="block type Seal"/>
+      <OtherTag ID="BT521" LABEL="Signatures" DESCRIPTION="block type Signatures"/>
+      <OtherTag ID="BT522" LABEL="Stamp" DESCRIPTION="block type Stamp"/>
+      <OtherTag ID="BT523" LABEL="Table" DESCRIPTION="block type Table"/>
+      <OtherTag ID="BT524" LABEL="Title" DESCRIPTION="block type Title"/>
+      <OtherTag ID="LT178" LABEL="Default" DESCRIPTION="line type Default"/>
+      <OtherTag ID="LT179"
+                LABEL="DropCapitalLine"
+                DESCRIPTION="line type DropCapitalLine"/>
+      <OtherTag ID="LT180" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/>
+      <OtherTag ID="LT181" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+      <OtherTag ID="LT182" LABEL="Rubric" DESCRIPTION="line type Rubric"/>
+   </Tags>
+   <Layout>
+      <Page WIDTH="4872"
+            HEIGHT="6496"
+            PHYSICAL_IMG_NR="403"
+            ID="eSc_dummypage_">
+         <PrintSpace HPOS="0" VPOS="0" WIDTH="4872" HEIGHT="6496">
+            <TextBlock HPOS="969"
+                       VPOS="4611"
+                       WIDTH="276"
+                       HEIGHT="285"
+                       ID="eSc_textblock_903f9093"
+                       TAGREFS="BT513">
+               <Shape>
+                  <Polygon POINTS="969 4611 969 4896 1245 4896 1245 4611"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock HPOS="898"
+                       VPOS="153"
+                       WIDTH="1859"
+                       HEIGHT="5613"
+                       ID="eSc_textblock_4b280c26"
+                       TAGREFS="BT515">
+               <Shape>
+                  <Polygon POINTS="898 153 898 5702 2757 5766 2631 163"/>
+               </Shape>
+               <TextLine ID="eSc_line_c8957b30"
+                         TAGREFS="LT178"
+                         BASELINE="990 319 2436 330"
+                         HPOS="990"
+                         VPOS="189"
+                         WIDTH="1446"
+                         HEIGHT="168">p. 3 and  l. 1<lb xmlns="http://www.tei-c.org/ns/1.0" n="1"/>
+               </TextLine>
+               <TextLine ID="eSc_line_fe48c525"
+                         TAGREFS="LT178"
+                         BASELINE="979 427 2463 454"
+                         HPOS="979"
+                         VPOS="335"
+                         WIDTH="1484"
+                         HEIGHT="152">p. 3 and  l. 2<lb xmlns="http://www.tei-c.org/ns/1.0" n="2"/>
+               </TextLine>
+               <TextLine ID="eSc_line_606a1d95"
+                         TAGREFS="LT178"
+                         BASELINE="974 573 2452 584"
+                         HPOS="974"
+                         VPOS="465"
+                         WIDTH="1478"
+                         HEIGHT="157">p. 3 and  l. 3<lb xmlns="http://www.tei-c.org/ns/1.0" n="3"/>
+               </TextLine>
+               <TextLine ID="eSc_line_815e5d23"
+                         TAGREFS="LT178"
+                         BASELINE="1017 698 2625 754"
+                         HPOS="1012"
+                         VPOS="590"
+                         WIDTH="1608"
+                         HEIGHT="178">p. 3 and  l. 4<lb xmlns="http://www.tei-c.org/ns/1.0" n="4"/>
+               </TextLine>
+               <TextLine ID="eSc_line_b717cd5e"
+                         TAGREFS="LT178"
+                         BASELINE="985 817 2354 855"
+                         HPOS="985"
+                         VPOS="714"
+                         WIDTH="1369"
+                         HEIGHT="162">p. 3 and  l. 5<lb xmlns="http://www.tei-c.org/ns/1.0" n="5"/>
+               </TextLine>
+               <TextLine ID="eSc_line_58494ab5"
+                         TAGREFS="LT178"
+                         BASELINE="979 952 2588 1002"
+                         HPOS="974"
+                         VPOS="833"
+                         WIDTH="1613"
+                         HEIGHT="184">p. 3 and  l. 6<lb xmlns="http://www.tei-c.org/ns/1.0" n="6"/>
+               </TextLine>
+               <TextLine ID="eSc_line_00df0ca6"
+                         TAGREFS="LT178"
+                         BASELINE="979 1082 2555 1109"
+                         HPOS="979"
+                         VPOS="974"
+                         WIDTH="1576"
+                         HEIGHT="162">p. 3 and  l. 7<lb xmlns="http://www.tei-c.org/ns/1.0" n="7"/>
+               </TextLine>
+               <TextLine ID="eSc_line_89376ed9"
+                         TAGREFS="LT178"
+                         BASELINE="990 1207 2585 1252"
+                         HPOS="985"
+                         VPOS="1104"
+                         WIDTH="1597"
+                         HEIGHT="168">p. 3 and  l. 8<lb xmlns="http://www.tei-c.org/ns/1.0" n="8"/>
+               </TextLine>
+               <TextLine ID="eSc_line_8d219cd0"
+                         TAGREFS="LT178"
+                         BASELINE="1012 1342 2392 1369"
+                         HPOS="1012"
+                         VPOS="1228"
+                         WIDTH="1380"
+                         HEIGHT="163">p. 3 and  l. 9<lb xmlns="http://www.tei-c.org/ns/1.0" n="9"/>
+               </TextLine>
+               <TextLine ID="eSc_line_f4588e28"
+                         TAGREFS="LT178"
+                         BASELINE="985 1467 2663 1507"
+                         HPOS="979"
+                         VPOS="1347"
+                         WIDTH="1678"
+                         HEIGHT="179">p. 3 and  l. 10<lb xmlns="http://www.tei-c.org/ns/1.0" n="10"/>
+               </TextLine>
+               <TextLine ID="eSc_line_0f70607f"
+                         TAGREFS="LT178"
+                         BASELINE="990 1586 2618 1624"
+                         HPOS="985"
+                         VPOS="1477"
+                         WIDTH="1629"
+                         HEIGHT="168">p. 3 and  l. 11<lb xmlns="http://www.tei-c.org/ns/1.0" n="11"/>
+               </TextLine>
+               <TextLine ID="eSc_line_00abe273"
+                         TAGREFS="LT178"
+                         BASELINE="1006 1710 2544 1737"
+                         HPOS="1006"
+                         VPOS="1602"
+                         WIDTH="1538"
+                         HEIGHT="151">p. 3 and  l. 12<lb xmlns="http://www.tei-c.org/ns/1.0" n="12"/>
+               </TextLine>
+               <TextLine ID="eSc_line_05ea6f9a"
+                         TAGREFS="LT178"
+                         BASELINE="985 1829 2658 1886"
+                         HPOS="979"
+                         VPOS="1710"
+                         WIDTH="1678"
+                         HEIGHT="190">p. 3 and  l. 13<lb xmlns="http://www.tei-c.org/ns/1.0" n="13"/>
+               </TextLine>
+               <TextLine ID="eSc_line_95da0599"
+                         TAGREFS="LT178"
+                         BASELINE="974 1970 2463 1997"
+                         HPOS="974"
+                         VPOS="1856"
+                         WIDTH="1489"
+                         HEIGHT="163">p. 3 and  l. 14<lb xmlns="http://www.tei-c.org/ns/1.0" n="14"/>
+               </TextLine>
+               <TextLine ID="eSc_line_2b7bb222"
+                         TAGREFS="LT178"
+                         BASELINE="985 2094 2522 2127"
+                         HPOS="985"
+                         VPOS="1986"
+                         WIDTH="1537"
+                         HEIGHT="163">p. 3 and  l. 15<lb xmlns="http://www.tei-c.org/ns/1.0" n="15"/>
+               </TextLine>
+               <TextLine ID="eSc_line_a1eb182f"
+                         TAGREFS="LT178"
+                         BASELINE="979 2224 2571 2257"
+                         HPOS="979"
+                         VPOS="2116"
+                         WIDTH="1592"
+                         HEIGHT="168">p. 3 and  l. 16<lb xmlns="http://www.tei-c.org/ns/1.0" n="16"/>
+               </TextLine>
+               <TextLine ID="eSc_line_889a25c3"
+                         TAGREFS="LT178"
+                         BASELINE="985 2343 2273 2381"
+                         HPOS="985"
+                         VPOS="2246"
+                         WIDTH="1288"
+                         HEIGHT="152">p. 3 and  l. 17<lb xmlns="http://www.tei-c.org/ns/1.0" n="17"/>
+               </TextLine>
+               <TextLine ID="eSc_line_c6875b4e"
+                         TAGREFS="LT178"
+                         BASELINE="974 2468 2549 2495"
+                         HPOS="974"
+                         VPOS="2371"
+                         WIDTH="1575"
+                         HEIGHT="146">p. 3 and  l. 18<lb xmlns="http://www.tei-c.org/ns/1.0" n="18"/>
+               </TextLine>
+               <TextLine ID="eSc_line_f3f6c020"
+                         TAGREFS="LT178"
+                         BASELINE="979 2609 2457 2625"
+                         HPOS="979"
+                         VPOS="2495"
+                         WIDTH="1478"
+                         HEIGHT="152">p. 3 and  l. 19<lb xmlns="http://www.tei-c.org/ns/1.0" n="19"/>
+               </TextLine>
+               <TextLine ID="eSc_line_dc5ca063"
+                         TAGREFS="LT178"
+                         BASELINE="990 2739 2635 2784"
+                         HPOS="985"
+                         VPOS="2625"
+                         WIDTH="1645"
+                         HEIGHT="179">p. 3 and  l. 20<lb xmlns="http://www.tei-c.org/ns/1.0" n="20"/>
+               </TextLine>
+               <TextLine ID="eSc_line_bef29e46"
+                         TAGREFS="LT178"
+                         BASELINE="979 2874 2549 2901"
+                         HPOS="979"
+                         VPOS="2760"
+                         WIDTH="1570"
+                         HEIGHT="163">p. 3 and  l. 21<lb xmlns="http://www.tei-c.org/ns/1.0" n="21"/>
+               </TextLine>
+               <TextLine ID="eSc_line_c64841bd"
+                         TAGREFS="LT178"
+                         BASELINE="985 2998 2517 3020"
+                         HPOS="985"
+                         VPOS="2896"
+                         WIDTH="1532"
+                         HEIGHT="146">p. 3 and  l. 22<lb xmlns="http://www.tei-c.org/ns/1.0" n="22"/>
+               </TextLine>
+               <TextLine ID="eSc_line_b24cd7e4"
+                         TAGREFS="LT178"
+                         BASELINE="963 3134 2544 3150"
+                         HPOS="963"
+                         VPOS="3031"
+                         WIDTH="1581"
+                         HEIGHT="146">p. 3 and  l. 23<lb xmlns="http://www.tei-c.org/ns/1.0" n="23"/>
+               </TextLine>
+               <TextLine ID="eSc_line_dad3853e"
+                         TAGREFS="LT178"
+                         BASELINE="968 3264 2414 3280"
+                         HPOS="968"
+                         VPOS="3155"
+                         WIDTH="1446"
+                         HEIGHT="147">p. 3 and  l. 24<lb xmlns="http://www.tei-c.org/ns/1.0" n="24"/>
+               </TextLine>
+               <TextLine ID="eSc_line_5d0f35b0"
+                         TAGREFS="LT178"
+                         BASELINE="968 3399 2365 3388"
+                         HPOS="968"
+                         VPOS="3280"
+                         WIDTH="1397"
+                         HEIGHT="130">p. 3 and  l. 25<lb xmlns="http://www.tei-c.org/ns/1.0" n="25"/>
+               </TextLine>
+               <TextLine ID="eSc_line_736461e3"
+                         TAGREFS="LT178"
+                         BASELINE="968 3518 2560 3502"
+                         HPOS="968"
+                         VPOS="3399"
+                         WIDTH="1592"
+                         HEIGHT="146">p. 3 and  l. 26<lb xmlns="http://www.tei-c.org/ns/1.0" n="26"/>
+               </TextLine>
+               <TextLine ID="eSc_line_f72bdb0f"
+                         TAGREFS="LT178"
+                         BASELINE="974 3648 2522 3632"
+                         HPOS="974"
+                         VPOS="3524"
+                         WIDTH="1548"
+                         HEIGHT="157">p. 3 and  l. 27<lb xmlns="http://www.tei-c.org/ns/1.0" n="27"/>
+               </TextLine>
+               <TextLine ID="eSc_line_36a4823e"
+                         TAGREFS="LT178"
+                         BASELINE="979 3762 2430 3778"
+                         HPOS="979"
+                         VPOS="3664"
+                         WIDTH="1451"
+                         HEIGHT="136">p. 3 and  l. 28<lb xmlns="http://www.tei-c.org/ns/1.0" n="28"/>
+               </TextLine>
+               <TextLine ID="eSc_line_5d174098"
+                         TAGREFS="LT178"
+                         BASELINE="968 3903 2603 3927"
+                         HPOS="963"
+                         VPOS="3789"
+                         WIDTH="1635"
+                         HEIGHT="162">p. 3 and  l. 29<lb xmlns="http://www.tei-c.org/ns/1.0" n="29"/>
+               </TextLine>
+               <TextLine ID="eSc_line_a415d5eb"
+                         TAGREFS="LT178"
+                         BASELINE="985 4054 2555 4054"
+                         HPOS="985"
+                         VPOS="3935"
+                         WIDTH="1570"
+                         HEIGHT="141">p. 3 and  l. 30<lb xmlns="http://www.tei-c.org/ns/1.0" n="30"/>
+               </TextLine>
+               <TextLine ID="eSc_line_c198af65"
+                         TAGREFS="LT178"
+                         BASELINE="968 4179 2756 4204"
+                         HPOS="963"
+                         VPOS="4070"
+                         WIDTH="1792"
+                         HEIGHT="152">p. 3 and  l. 31<lb xmlns="http://www.tei-c.org/ns/1.0" n="31"/>
+               </TextLine>
+               <TextLine ID="eSc_line_088e1663"
+                         TAGREFS="LT178"
+                         BASELINE="983 4335 2577 4339"
+                         HPOS="979"
+                         VPOS="4211"
+                         WIDTH="1597"
+                         HEIGHT="130">p. 3 and  l. 32<lb xmlns="http://www.tei-c.org/ns/1.0" n="32"/>
+               </TextLine>
+               <TextLine ID="eSc_line_3f4dff6b"
+                         TAGREFS="LT178"
+                         BASELINE="963 4466 2582 4455"
+                         HPOS="963"
+                         VPOS="4341"
+                         WIDTH="1619"
+                         HEIGHT="141">p. 3 and  l. 33<lb xmlns="http://www.tei-c.org/ns/1.0" n="33"/>
+               </TextLine>
+               <TextLine ID="eSc_line_13b96415"
+                         TAGREFS="LT178"
+                         BASELINE="990 4601 2560 4585"
+                         HPOS="990"
+                         VPOS="4471"
+                         WIDTH="1570"
+                         HEIGHT="146">p. 3 and  l. 34<lb xmlns="http://www.tei-c.org/ns/1.0" n="34"/>
+               </TextLine>
+               <TextLine ID="eSc_line_fb4867c9"
+                         TAGREFS="LT179"
+                         BASELINE="1036 4843 1187 4845"
+                         HPOS="1033"
+                         VPOS="4817"
+                         WIDTH="152"
+                         HEIGHT="55">p. 3 and  l. 35<lb xmlns="http://www.tei-c.org/ns/1.0" n="35"/>
+               </TextLine>
+               <TextLine ID="eSc_line_3a11aa7c"
+                         TAGREFS="LT178"
+                         BASELINE="1223 4720 2741 4739"
+                         HPOS="1218"
+                         VPOS="4606"
+                         WIDTH="1521"
+                         HEIGHT="157">p. 3 and  l. 36<lb xmlns="http://www.tei-c.org/ns/1.0" n="36"/>
+               </TextLine>
+               <TextLine ID="eSc_line_541228e7"
+                         TAGREFS="LT178"
+                         BASELINE="1223 4850 2384 4868"
+                         HPOS="1218"
+                         VPOS="4731"
+                         WIDTH="1163"
+                         HEIGHT="157">p. 3 and  l. 37<lb xmlns="http://www.tei-c.org/ns/1.0" n="37"/>
+               </TextLine>
+               <TextLine ID="eSc_line_585fdbee"
+                         TAGREFS="LT178"
+                         BASELINE="985 4969 2716 5001"
+                         HPOS="979"
+                         VPOS="4850"
+                         WIDTH="1733"
+                         HEIGHT="157">p. 3 and  l. 38<lb xmlns="http://www.tei-c.org/ns/1.0" n="38"/>
+               </TextLine>
+               <TextLine ID="eSc_line_02ad4723"
+                         TAGREFS="LT178"
+                         BASELINE="997 5108 2593 5132"
+                         HPOS="996"
+                         VPOS="4985"
+                         WIDTH="1596"
+                         HEIGHT="168">p. 3 and  l. 39<lb xmlns="http://www.tei-c.org/ns/1.0" n="39"/>
+               </TextLine>
+               <TextLine ID="eSc_line_ce29c41b"
+                         TAGREFS="LT178"
+                         BASELINE="990 5256 2611 5276"
+                         HPOS="985"
+                         VPOS="5131"
+                         WIDTH="1624"
+                         HEIGHT="141">p. 3 and  l. 40<lb xmlns="http://www.tei-c.org/ns/1.0" n="40"/>
+               </TextLine>
+               <TextLine ID="eSc_line_dc540bce"
+                         TAGREFS="LT178"
+                         BASELINE="985 5380 2601 5399"
+                         HPOS="979"
+                         VPOS="5267"
+                         WIDTH="1619"
+                         HEIGHT="151">p. 3 and  l. 41<lb xmlns="http://www.tei-c.org/ns/1.0" n="41"/>
+               </TextLine>
+               <TextLine ID="eSc_line_611fa3cc"
+                         TAGREFS="LT178"
+                         BASELINE="1006 5521 2484 5527"
+                         HPOS="1006"
+                         VPOS="5402"
+                         WIDTH="1478"
+                         HEIGHT="130">p. 3 and  l. 42<lb xmlns="http://www.tei-c.org/ns/1.0" n="42"/>
+               </TextLine>
+               <TextLine ID="eSc_line_b017b80a"
+                         TAGREFS="LT178"
+                         BASELINE="979 5651 2722 5667"
+                         HPOS="974"
+                         VPOS="5532"
+                         WIDTH="1743"
+                         HEIGHT="179">p. 3 and  l. 43<lb xmlns="http://www.tei-c.org/ns/1.0" n="1"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock HPOS="2662"
+                       VPOS="163"
+                       WIDTH="1775"
+                       HEIGHT="5641"
+                       ID="eSc_textblock_28167d54"
+                       TAGREFS="BT515">
+               <Shape>
+                  <Polygon POINTS="2662 163 2662 5804 4437 5804 4437 163"/>
+               </Shape>
+               <TextLine ID="eSc_line_c9884ec9"
+                         TAGREFS="LT178"
+                         BASELINE="2674 335 4103 384"
+                         HPOS="2674"
+                         VPOS="200"
+                         WIDTH="1429"
+                         HEIGHT="211">p. 3 and  l. 44<lb xmlns="http://www.tei-c.org/ns/1.0" n="2"/>
+               </TextLine>
+               <TextLine ID="eSc_line_2f0092e0"
+                         TAGREFS="LT178"
+                         BASELINE="2663 460 4070 498"
+                         HPOS="2663"
+                         VPOS="357"
+                         WIDTH="1407"
+                         HEIGHT="173">p. 3 and  l. 45<lb xmlns="http://www.tei-c.org/ns/1.0" n="3"/>
+               </TextLine>
+               <TextLine ID="eSc_line_d7654b6d"
+                         TAGREFS="LT178"
+                         BASELINE="2679 611 3415 606 4325 644"
+                         HPOS="2679"
+                         VPOS="487"
+                         WIDTH="1646"
+                         HEIGHT="184">p. 3 and  l. 46<lb xmlns="http://www.tei-c.org/ns/1.0" n="4"/>
+               </TextLine>
+               <TextLine ID="eSc_line_93fa5d27"
+                         TAGREFS="LT178"
+                         BASELINE="2700 734 4006 758"
+                         HPOS="2695"
+                         VPOS="627"
+                         WIDTH="1310"
+                         HEIGHT="157">p. 3 and  l. 47<lb xmlns="http://www.tei-c.org/ns/1.0" n="5"/>
+               </TextLine>
+               <TextLine ID="eSc_line_6ee4a827"
+                         TAGREFS="LT178"
+                         BASELINE="2679 849 4173 887"
+                         HPOS="2679"
+                         VPOS="752"
+                         WIDTH="1494"
+                         HEIGHT="162">p. 3 and  l. 48<lb xmlns="http://www.tei-c.org/ns/1.0" n="6"/>
+               </TextLine>
+               <TextLine ID="eSc_line_052838cb"
+                         TAGREFS="LT178"
+                         BASELINE="2693 989 4152 1027"
+                         HPOS="2690"
+                         VPOS="887"
+                         WIDTH="1456"
+                         HEIGHT="163">p. 3 and  l. 49<lb xmlns="http://www.tei-c.org/ns/1.0" n="7"/>
+               </TextLine>
+               <TextLine ID="eSc_line_a17bf296"
+                         TAGREFS="LT178"
+                         BASELINE="2652 1109 4352 1147"
+                         HPOS="2652"
+                         VPOS="1012"
+                         WIDTH="1700"
+                         HEIGHT="162">p. 3 and  l. 50<lb xmlns="http://www.tei-c.org/ns/1.0" n="8"/>
+               </TextLine>
+               <TextLine ID="eSc_line_063916d2"
+                         TAGREFS="LT178"
+                         BASELINE="2703 1241 4006 1265"
+                         HPOS="2701"
+                         VPOS="1131"
+                         WIDTH="1304"
+                         HEIGHT="162">p. 3 and  l. 51<lb xmlns="http://www.tei-c.org/ns/1.0" n="9"/>
+               </TextLine>
+               <TextLine ID="eSc_line_423ca083"
+                         TAGREFS="LT178"
+                         BASELINE="2663 1358 4395 1402"
+                         HPOS="2663"
+                         VPOS="1261"
+                         WIDTH="1732"
+                         HEIGHT="173">p. 3 and  l. 52<lb xmlns="http://www.tei-c.org/ns/1.0" n="10"/>
+               </TextLine>
+               <TextLine ID="eSc_line_286ce7c8"
+                         TAGREFS="LT178"
+                         BASELINE="2710 1510 4046 1534"
+                         HPOS="2706"
+                         VPOS="1385"
+                         WIDTH="1337"
+                         HEIGHT="163">p. 3 and  l. 53<lb xmlns="http://www.tei-c.org/ns/1.0" n="11"/>
+               </TextLine>
+               <TextLine ID="eSc_line_0d7eb8ea"
+                         TAGREFS="LT178"
+                         BASELINE="2713 1642 4264 1663"
+                         HPOS="2712"
+                         VPOS="1640"
+                         WIDTH="1548"
+                         HEIGHT="21">p. 3 and  l. 54<lb xmlns="http://www.tei-c.org/ns/1.0" n="12"/>
+               </TextLine>
+               <TextLine ID="eSc_line_85a97f9c"
+                         TAGREFS="LT178"
+                         BASELINE="2663 1743 4438 1764"
+                         HPOS="2663"
+                         VPOS="1645"
+                         WIDTH="1775"
+                         HEIGHT="157">p. 3 and  l. 55<lb xmlns="http://www.tei-c.org/ns/1.0" n="13"/>
+               </TextLine>
+               <TextLine ID="eSc_line_7947254e"
+                         TAGREFS="LT178"
+                         BASELINE="2713 1880 4094 1897"
+                         HPOS="2712"
+                         VPOS="1764"
+                         WIDTH="1380"
+                         HEIGHT="136">p. 3 and  l. 56<lb xmlns="http://www.tei-c.org/ns/1.0" n="14"/>
+               </TextLine>
+               <TextLine ID="eSc_line_17e440c7"
+                         TAGREFS="LT178"
+                         BASELINE="2668 1997 4200 2008"
+                         HPOS="2668"
+                         VPOS="1900"
+                         WIDTH="1532"
+                         HEIGHT="140">p. 3 and  l. 57<lb xmlns="http://www.tei-c.org/ns/1.0" n="15"/>
+               </TextLine>
+               <TextLine ID="eSc_line_13daba60"
+                         TAGREFS="LT178"
+                         BASELINE="2668 2122 4244 2154"
+                         HPOS="2668"
+                         VPOS="2019"
+                         WIDTH="1576"
+                         HEIGHT="162">p. 3 and  l. 58<lb xmlns="http://www.tei-c.org/ns/1.0" n="16"/>
+               </TextLine>
+               <TextLine ID="eSc_line_7ba2b05e"
+                         TAGREFS="LT178"
+                         BASELINE="2657 2262 3973 2262"
+                         HPOS="2657"
+                         VPOS="2159"
+                         WIDTH="1316"
+                         HEIGHT="141">p. 3 and  l. 59<lb xmlns="http://www.tei-c.org/ns/1.0" n="17"/>
+               </TextLine>
+               <TextLine ID="eSc_line_4233b32f"
+                         TAGREFS="LT178"
+                         BASELINE="2679 2376 4043 2392"
+                         HPOS="2679"
+                         VPOS="2279"
+                         WIDTH="1364"
+                         HEIGHT="140">p. 3 and  l. 60<lb xmlns="http://www.tei-c.org/ns/1.0" n="18"/>
+               </TextLine>
+               <TextLine ID="eSc_line_b87bd432"
+                         TAGREFS="LT178"
+                         BASELINE="2668 2500 4260 2506"
+                         HPOS="2668"
+                         VPOS="2403"
+                         WIDTH="1592"
+                         HEIGHT="130">p. 3 and  l. 61<lb xmlns="http://www.tei-c.org/ns/1.0" n="19"/>
+               </TextLine>
+               <TextLine ID="eSc_line_6bdd8471"
+                         TAGREFS="LT178"
+                         BASELINE="2674 2636 4200 2652"
+                         HPOS="2674"
+                         VPOS="2528"
+                         WIDTH="1526"
+                         HEIGHT="157">p. 3 and  l. 62<lb xmlns="http://www.tei-c.org/ns/1.0" n="20"/>
+               </TextLine>
+               <TextLine ID="eSc_line_20c07d38"
+                         TAGREFS="LT178"
+                         BASELINE="2717 2771 4220 2792"
+                         HPOS="2712"
+                         VPOS="2663"
+                         WIDTH="1504"
+                         HEIGHT="157">p. 3 and  l. 63<lb xmlns="http://www.tei-c.org/ns/1.0" n="21"/>
+               </TextLine>
+               <TextLine ID="eSc_line_786f2095"
+                         TAGREFS="LT178"
+                         BASELINE="2657 2901 4260 2901"
+                         HPOS="2657"
+                         VPOS="2804"
+                         WIDTH="1603"
+                         HEIGHT="140">p. 3 and  l. 64<lb xmlns="http://www.tei-c.org/ns/1.0" n="22"/>
+               </TextLine>
+               <TextLine ID="eSc_line_ea6d85f2"
+                         TAGREFS="LT178"
+                         BASELINE="2674 3036 4211 3026"
+                         HPOS="2674"
+                         VPOS="2928"
+                         WIDTH="1537"
+                         HEIGHT="135">p. 3 and  l. 65<lb xmlns="http://www.tei-c.org/ns/1.0" n="23"/>
+               </TextLine>
+               <TextLine ID="eSc_line_96c37426"
+                         TAGREFS="LT178"
+                         BASELINE="2668 3161 4249 3161"
+                         HPOS="2668"
+                         VPOS="3063"
+                         WIDTH="1581"
+                         HEIGHT="147">p. 3 and  l. 66<lb xmlns="http://www.tei-c.org/ns/1.0" n="24"/>
+               </TextLine>
+               <TextLine ID="eSc_line_aeaac20b"
+                         TAGREFS="LT178"
+                         BASELINE="2668 3285 4341 3296"
+                         HPOS="2668"
+                         VPOS="3188"
+                         WIDTH="1673"
+                         HEIGHT="141">p. 3 and  l. 67<lb xmlns="http://www.tei-c.org/ns/1.0" n="25"/>
+               </TextLine>
+               <TextLine ID="eSc_line_3d95e74a"
+                         TAGREFS="LT178"
+                         BASELINE="2690 3399 4195 3421"
+                         HPOS="2690"
+                         VPOS="3307"
+                         WIDTH="1505"
+                         HEIGHT="146">p. 3 and  l. 68<lb xmlns="http://www.tei-c.org/ns/1.0" n="26"/>
+               </TextLine>
+               <TextLine ID="eSc_line_8f2ed0c5"
+                         TAGREFS="LT178"
+                         BASELINE="2674 3518 4244 3534"
+                         HPOS="2674"
+                         VPOS="3432"
+                         WIDTH="1570"
+                         HEIGHT="135">p. 3 and  l. 69<lb xmlns="http://www.tei-c.org/ns/1.0" n="27"/>
+               </TextLine>
+               <TextLine ID="eSc_line_4be86b80"
+                         TAGREFS="LT178"
+                         BASELINE="2690 3643 4173 3659"
+                         HPOS="2690"
+                         VPOS="3545"
+                         WIDTH="1483"
+                         HEIGHT="152">p. 3 and  l. 70<lb xmlns="http://www.tei-c.org/ns/1.0" n="28"/>
+               </TextLine>
+               <TextLine ID="eSc_line_57404e3b"
+                         TAGREFS="LT178"
+                         BASELINE="2690 3773 4060 3789"
+                         HPOS="2690"
+                         VPOS="3675"
+                         WIDTH="1370"
+                         HEIGHT="146">p. 3 and  l. 71<lb xmlns="http://www.tei-c.org/ns/1.0" n="29"/>
+               </TextLine>
+               <TextLine ID="eSc_line_78c14416"
+                         TAGREFS="LT178"
+                         BASELINE="2696 3917 4196 3944"
+                         HPOS="2695"
+                         VPOS="3794"
+                         WIDTH="1500"
+                         HEIGHT="173">p. 3 and  l. 72<lb xmlns="http://www.tei-c.org/ns/1.0" n="30"/>
+               </TextLine>
+               <TextLine ID="eSc_line_c7b0bb26"
+                         TAGREFS="LT178"
+                         BASELINE="2647 4049 4281 4076"
+                         HPOS="2647"
+                         VPOS="3940"
+                         WIDTH="1634"
+                         HEIGHT="168">p. 3 and  l. 73<lb xmlns="http://www.tei-c.org/ns/1.0" n="31"/>
+               </TextLine>
+               <TextLine ID="eSc_line_b09406de"
+                         TAGREFS="LT178"
+                         BASELINE="2798 4206 4380 4237"
+                         HPOS="2793"
+                         VPOS="4087"
+                         WIDTH="1586"
+                         HEIGHT="167">p. 3 and  l. 74<lb xmlns="http://www.tei-c.org/ns/1.0" n="32"/>
+               </TextLine>
+               <TextLine ID="eSc_line_0973d93a"
+                         TAGREFS="LT178"
+                         BASELINE="2764 4329 4447 4376"
+                         HPOS="2760"
+                         VPOS="4211"
+                         WIDTH="1684"
+                         HEIGHT="184">p. 3 and  l. 75<lb xmlns="http://www.tei-c.org/ns/1.0" n="33"/>
+               </TextLine>
+               <TextLine ID="eSc_line_3b668a18"
+                         TAGREFS="LT178"
+                         BASELINE="2663 4466 4319 4476"
+                         HPOS="2663"
+                         VPOS="4363"
+                         WIDTH="1656"
+                         HEIGHT="146">p. 3 and  l. 76<lb xmlns="http://www.tei-c.org/ns/1.0" n="34"/>
+               </TextLine>
+               <TextLine ID="eSc_line_4c166c92"
+                         TAGREFS="LT178"
+                         BASELINE="2663 4590 4130 4612"
+                         HPOS="2663"
+                         VPOS="4482"
+                         WIDTH="1467"
+                         HEIGHT="146">p. 3 and  l. 77<lb xmlns="http://www.tei-c.org/ns/1.0" n="35"/>
+               </TextLine>
+               <TextLine ID="eSc_line_972d5f1e"
+                         TAGREFS="LT178"
+                         BASELINE="2785 4726 4267 4757"
+                         HPOS="2782"
+                         VPOS="4606"
+                         WIDTH="1483"
+                         HEIGHT="163">p. 3 and  l. 78<lb xmlns="http://www.tei-c.org/ns/1.0" n="36"/>
+               </TextLine>
+               <TextLine ID="eSc_line_78bef22e"
+                         TAGREFS="LT178"
+                         BASELINE="2739 4861 4141 4872"
+                         HPOS="2733"
+                         VPOS="4747"
+                         WIDTH="1402"
+                         HEIGHT="125">p. 3 and  l. 79<lb xmlns="http://www.tei-c.org/ns/1.0" n="37"/>
+               </TextLine>
+               <TextLine ID="eSc_line_997b2ada"
+                         TAGREFS="LT178"
+                         BASELINE="2775 4990 4340 4990"
+                         HPOS="2771"
+                         VPOS="4877"
+                         WIDTH="1565"
+                         HEIGHT="135">p. 3 and  l. 80<lb xmlns="http://www.tei-c.org/ns/1.0" n="38"/>
+               </TextLine>
+               <TextLine ID="eSc_line_daef1dbf"
+                         TAGREFS="LT178"
+                         BASELINE="2734 5127 4415 5135"
+                         HPOS="2733"
+                         VPOS="5012"
+                         WIDTH="1678"
+                         HEIGHT="141">p. 3 and  l. 81<lb xmlns="http://www.tei-c.org/ns/1.0" n="39"/>
+               </TextLine>
+               <TextLine ID="eSc_line_51cfc50e"
+                         TAGREFS="LT178"
+                         BASELINE="2738 5268 4395 5278"
+                         HPOS="2733"
+                         VPOS="5142"
+                         WIDTH="1657"
+                         HEIGHT="157">p. 3 and  l. 82<lb xmlns="http://www.tei-c.org/ns/1.0" n="40"/>
+               </TextLine>
+               <TextLine ID="eSc_line_027dd75d"
+                         TAGREFS="LT178"
+                         BASELINE="2748 5396 4017 5415"
+                         HPOS="2744"
+                         VPOS="5283"
+                         WIDTH="1272"
+                         HEIGHT="151">p. 3 and  l. 83<lb xmlns="http://www.tei-c.org/ns/1.0" n="41"/>
+               </TextLine>
+               <TextLine ID="eSc_line_2c0adcfc"
+                         TAGREFS="LT178"
+                         BASELINE="2738 5525 4284 5541"
+                         HPOS="2733"
+                         VPOS="5413"
+                         WIDTH="1548"
+                         HEIGHT="151">p. 3 and  l. 84<lb xmlns="http://www.tei-c.org/ns/1.0" n="42"/>
+               </TextLine>
+               <TextLine ID="eSc_line_06be5b9e"
+                         TAGREFS="LT178"
+                         BASELINE="2762 5660 4066 5666"
+                         HPOS="2760"
+                         VPOS="5554"
+                         WIDTH="1305"
+                         HEIGHT="173">p. 3 and  l. 85</TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
