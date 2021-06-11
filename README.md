@@ -9,6 +9,6 @@ For the moment, ALTEI contains
 
 
 
-![The proud Altai Ibex](https://upload.wikimedia.org/wikipedia/commons/a/a5/Siberian_Ibex.jpg)
+![The proud Altai Ibex](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Siberian_Ibex.jpg/640px-Siberian_Ibex.jpg)
 
 © Image credits: User:Quinet (_Wikipedia_), CC BY 3.0 
