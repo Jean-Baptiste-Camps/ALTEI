@@ -97,352 +97,570 @@
                          HPOS="238"
                          VPOS="227"
                          WIDTH="1618"
-                         HEIGHT="211">ki volt oir chãcũ de beau sẽblãt
-</TextLine>
+                         HEIGHT="211">
+                  <String CONTENT="deu ne fist hũme qͥ lur tolsist essie"
+                          HPOS="238"
+                          VPOS="227"
+                          WIDTH="1618"
+                          HEIGHT="211"/>
+               </TextLine>
                <TextLine ID="eSc_line_ee4ae6e0"
                          TAGREFS="LT178"
                          BASELINE="265 535 1812 488"
                          HPOS="259"
                          VPOS="384"
                          WIDTH="1549"
-                         HEIGHT="173">dũt bien ſ̃t fait les v͛s ꝑ ꝯsonãt
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="ne lur pescher ne lur gaanerie"
+                          HPOS="259"
+                          VPOS="384"
+                          WIDTH="1549"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_c0cf7612"
                          TAGREFS="LT178"
                          BASELINE="254 665 1966 632"
                          HPOS="249"
                          VPOS="508"
                          WIDTH="1716"
-                         HEIGHT="179">ore laist la noise si se treie avãt
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="si charles i venist od la barbe flurie"
+                          HPOS="249"
+                          VPOS="508"
+                          WIDTH="1716"
+                          HEIGHT="179"/>
+               </TextLine>
                <TextLine ID="eSc_line_cfee2d0b"
                          TAGREFS="LT178"
                          BASELINE="254 790 1683 763"
                          HPOS="254"
                          VPOS="660"
                          WIDTH="1429"
-                         HEIGHT="162">dirũ la flur de la geste vallãt
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="la conuistrũ ki av͛a amie"
+                          HPOS="254"
+                          VPOS="660"
+                          WIDTH="1429"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_086e1bac"
                          TAGREFS="LT178"
                          BASELINE="254 914 1667 893"
                          HPOS="254"
                          VPOS="790"
                          WIDTH="1413"
-                         HEIGHT="157">del fiz pepin le noble ꝯbatant
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="ki meuz ferra d espee furbie"
+                          HPOS="254"
+                          VPOS="790"
+                          WIDTH="1413"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_db10574b"
                          TAGREFS="LT178"
                          BASELINE="259 1044 1797 1001"
                          HPOS="259"
                          VPOS="904"
                          WIDTH="1538"
-                         HEIGHT="173">des duze pers qͥ s entramerẽt tãt
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="meis dan vilein n í venez v⁹ míe"
+                          HPOS="259"
+                          VPOS="904"
+                          WIDTH="1538"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_ffa57de3"
                          TAGREFS="LT178"
                          BASELINE="261 1163 1957 1139"
                          HPOS="259"
                          VPOS="1039"
                          WIDTH="1695"
-                         HEIGHT="141">k unc ne severerẽt tͤsk a un jor pesãt
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="par mun ꝯseil garderez paris la vile"
+                          HPOS="259"
+                          VPOS="1039"
+                          WIDTH="1695"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_b5a0e769"
                          TAGREFS="LT178"
                          BASELINE="249 1299 1936 1278"
                          HPOS="243"
                          VPOS="1174"
                          WIDTH="1689"
-                         HEIGHT="130">ke guenes les tͣí od la salvage gẽt
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="k escufle n í entre ne corneile ne pie"
+                          HPOS="243"
+                          VPOS="1174"
+                          WIDTH="1689"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_6680457f"
                          TAGREFS="LT178"
                          BASELINE="254 1412 1889 1385"
                          HPOS="254"
                          VPOS="1293"
                          WIDTH="1635"
-                         HEIGHT="141">un jor mururẽt vĩt millier e set cẽt
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="kar par v⁹ n ert mes faite chevalerie"
+                          HPOS="254"
+                          VPOS="1293"
+                          WIDTH="1635"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_5208e1fd"
                          TAGREFS="LT178"
                          BASELINE="259 1542 1851 1510"
                          HPOS="259"
                          VPOS="1418"
                          WIDTH="1592"
-                         HEIGHT="162">de cel barnage dũt charles ot doel gͣnt
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="tel vergoine at li duc ne set qͥ l die"
+                          HPOS="259"
+                          VPOS="1418"
+                          WIDTH="1592"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_d8c8f0c7"
                          TAGREFS="LT179"
                          BASELINE="237 1814 430 1816"
                          HPOS="232"
                          VPOS="1770"
                          WIDTH="195"
-                         HEIGHT="92">cil j́ugleor n ẽ diẽt tãt ne qͣnt
-</TextLine>
+                         HEIGHT="92">
+                  <Shape>
+                     <Polygon POINTS="232 1813 243 1770 384 1770 427 1813 416 1862 368 1862 313 1813 243 1813"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="232" VPOS="1770" WIDTH="195" HEIGHT="92"/>
+               </TextLine>
                <TextLine ID="eSc_line_c9da5d50"
                          TAGREFS="LT178"
                          BASELINE="449 1656 1894 1629"
                          HPOS="449"
                          VPOS="1542"
                          WIDTH="1445"
-                         HEIGHT="157">tuít l ont leisse k il ne sevẽt níent
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="li duc rodlant s est en piez levez"
+                          HPOS="449"
+                          VPOS="1542"
+                          WIDTH="1445"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_e203efbd"
                          TAGREFS="LT178"
                          BASELINE="481 1786 1878 1759"
                          HPOS="481"
                          VPOS="1672"
                          WIDTH="1397"
-                         HEIGHT="136">li plusur danger e de l autri chãtãt
-</TextLine>
+                         HEIGHT="136">
+                  <String CONTENT="mal talẽt at a poí n est forsenez"
+                          HPOS="481"
+                          VPOS="1672"
+                          WIDTH="1397"
+                          HEIGHT="136"/>
+               </TextLine>
                <TextLine ID="eSc_line_0c70bddd"
                          TAGREFS="LT178"
                          BASELINE="254 1905 1829 1883"
                          HPOS="254"
                          VPOS="1797"
                          WIDTH="1575"
-                         HEIGHT="146">les paroles menues qͥ l võt ꝯtͦvant
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="vers le paen s en est treis pas alez"
+                          HPOS="254"
+                          VPOS="1797"
+                          WIDTH="1575"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_f89a768c"
                          TAGREFS="LT178"
                          BASELINE="232 2051 1737 2019"
                          HPOS="232"
                          VPOS="1916"
                          WIDTH="1505"
-                         HEIGHT="157">mes il ne sevẽt mie le gͣnt desturbemẽt
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="si lí a dit culvert desmesurez"
+                          HPOS="232"
+                          VPOS="1916"
+                          WIDTH="1505"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_323f57a0"
                          TAGREFS="LT178"
                          BASELINE="249 2165 1791 2138"
                          HPOS="249"
                          VPOS="2051"
                          WIDTH="1542"
-                         HEIGHT="157">k avĩt a charlemaine si subitemẽt
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="mult par t as ui e prisez e vantez"
+                          HPOS="249"
+                          VPOS="2051"
+                          WIDTH="1542"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_418696c7"
                          TAGREFS="LT178"
                          BASELINE="249 2295 1710 2268"
                          HPOS="249"
                          VPOS="2170"
                          WIDTH="1461"
-                         HEIGHT="163">seĩgn᷑s co fu le jor dũt li ĩnocẽt sũt
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="de ta parole devãt franceis loez"
+                          HPOS="249"
+                          VPOS="2170"
+                          WIDTH="1461"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_ac6c24f1"
                          TAGREFS="LT178"
                          BASELINE="249 2419 1764 2387"
                          HPOS="249"
                          VPOS="2300"
                          WIDTH="1515"
-                         HEIGHT="157">a paris ÷ ẽ fͣnce charles de clermũt
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="mes par celui k en croiz fu penez"
+                          HPOS="249"
+                          VPOS="2300"
+                          WIDTH="1515"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_61020396"
                          TAGREFS="LT178"
                          BASELINE="265 2533 1651 2522"
                          HPOS="265"
                          VPOS="2436"
                          WIDTH="1386"
-                         HEIGHT="129">u tint sa curt plenere li duze ꝑ i sũt
-</TextLine>
+                         HEIGHT="129">
+                  <String CONTENT="ja murriez ne fuissez afiez"
+                          HPOS="265"
+                          VPOS="2436"
+                          WIDTH="1386"
+                          HEIGHT="129"/>
+               </TextLine>
                <TextLine ID="eSc_line_97833a26"
                          TAGREFS="LT178"
                          BASELINE="243 2679 1892 2668"
                          HPOS="238"
                          VPOS="2555"
                          WIDTH="1651"
-                         HEIGHT="151">Ml̃t par est la joie gͣnt q̃ li barũs i funt
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="mes s en bataille puissez estre ẽꝯtrez"
+                          HPOS="238"
+                          VPOS="2555"
+                          WIDTH="1651"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_35082586"
                          TAGREFS="LT178"
                          BASELINE="254 2798 1640 2798"
                          HPOS="254"
                          VPOS="2695"
                          WIDTH="1386"
-                         HEIGHT="141">un plai ont establi k ẽ espaníe irũt
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="tel te dorrai de m espee de lez"
+                          HPOS="254"
+                          VPOS="2695"
+                          WIDTH="1386"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_60444dd0"
                          TAGREFS="LT178"
                          BASELINE="282 2944 2010 2922"
                          HPOS="281"
                          VPOS="2814"
                          WIDTH="1727"
-                         HEIGHT="141">sur le rei marsilie le seremẽt i funt
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="ja puis de tei n ert franc hũme ẽꝯbrez"
+                          HPOS="281"
+                          VPOS="2814"
+                          WIDTH="1727"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_5ff99436"
                          TAGREFS="LT178"
                          BASELINE="254 3058 1586 3042"
                          HPOS="254"
                          VPOS="2950"
                          WIDTH="1332"
-                         HEIGHT="146">co ert ap͛s av͛il qͣnt h͛be fresche av͛ũt
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="dit otinel ja le savum assez"
+                          HPOS="254"
+                          VPOS="2950"
+                          WIDTH="1332"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_a9c60276"
                          TAGREFS="LT178"
                          BASELINE="254 3183 1654 3165"
                          HPOS="249"
                          VPOS="3069"
                          WIDTH="1402"
-                         HEIGHT="151">eínz q̃ finẽt lur ꝑole teles noveles orũt
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="bataille averas si feire l osez"
+                          HPOS="249"
+                          VPOS="3069"
+                          WIDTH="1402"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_6f5e92d0"
                          TAGREFS="LT178"
                          BASELINE="254 3307 1916 3285"
                          HPOS="254"
                          VPOS="3188"
                          WIDTH="1662"
-                         HEIGHT="157">dũt vĩt mil cheval͛ de noz fͣnceis murũt
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="demaín matín v⁹ sumũs ẽ ces prez"
+                          HPOS="254"
+                          VPOS="3188"
+                          WIDTH="1662"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_16be527a"
                          TAGREFS="LT178"
                          BASELINE="270 3432 1678 3410"
                          HPOS="270"
                          VPOS="3318"
                          WIDTH="1408"
-                         HEIGHT="135">si dãpnedeu n ẽ pẽse qͥ sustẽt tut le mũd
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="e dit rodlant kar le m aseurez"
+                          HPOS="270"
+                          VPOS="3318"
+                          WIDTH="1408"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_2b56a1bf"
                          TAGREFS="LT178"
                          BASELINE="259 3567 1629 3545"
                          HPOS="259"
                          VPOS="3442"
                          WIDTH="1370"
-                         HEIGHT="141">un sarazĩ d espaine qͥ otuel a nun
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="fet le paen la meie fei tenez"
+                          HPOS="259"
+                          VPOS="3442"
+                          WIDTH="1370"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_763059c5"
                          TAGREFS="LT178"
                          BASELINE="254 3686 1786 3664"
                          HPOS="254"
                          VPOS="3567"
                          WIDTH="1532"
-                         HEIGHT="151">messag͛ garsie bien resẽble barun
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="e ma creance e tutes mes lealtez"
+                          HPOS="254"
+                          VPOS="3567"
+                          WIDTH="1532"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_97ef6900"
                          TAGREFS="LT178"
                          BASELINE="259 3827 1867 3789"
                          HPOS="259"
                          VPOS="3691"
                          WIDTH="1608"
-                         HEIGHT="168">par mi paris chevalche a coite d espurun
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="par ki remaine seit cuard pruvez"
+                          HPOS="259"
+                          VPOS="3691"
+                          WIDTH="1608"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_4ce32bc6"
                          TAGREFS="LT178"
                          BASELINE="286 3962 1932 3924"
                          HPOS="286"
                          VPOS="3816"
                          WIDTH="1646"
-                         HEIGHT="189">qͣnt vient al paleis si descẽt al perun
-</TextLine>
+                         HEIGHT="189">
+                  <String CONTENT="l espurũ lui seit des piez colpez"
+                          HPOS="286"
+                          VPOS="3816"
+                          WIDTH="1646"
+                          HEIGHT="189"/>
+               </TextLine>
                <TextLine ID="eSc_line_3993b54e"
                          TAGREFS="LT178"
                          BASELINE="280 4103 1910 4060"
                          HPOS="276"
                          VPOS="3967"
                          WIDTH="1629"
-                         HEIGHT="157">les desgrez mõte si demande charlun
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="james en curt ne seit mes honurez"
+                          HPOS="276"
+                          VPOS="3967"
+                          WIDTH="1629"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_063a2469"
                          TAGREFS="LT178"
                          BASELINE="270 4238 1948 4195"
                          HPOS="270"
                          VPOS="4092"
                          WIDTH="1678"
-                         HEIGHT="179">ogier ẽꝯtre e galter e naímun
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="lur feiz en donent ore sũt asseurez"
+                          HPOS="270"
+                          VPOS="4092"
+                          WIDTH="1678"
+                          HEIGHT="179"/>
+               </TextLine>
                <TextLine ID="eSc_line_3eb60124"
                          TAGREFS="LT179"
                          BASELINE="259 4493 464 4489"
                          HPOS="254"
                          VPOS="4395"
                          WIDTH="206"
-                         HEIGHT="141">seign᷑ fait li paen kar me mustrez charlũ
-</TextLine>
+                         HEIGHT="141">
+                  <Shape>
+                     <Polygon POINTS="254 4487 265 4395 335 4411 389 4460 449 4460 460 4487 449 4536 265 4503"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="254" VPOS="4395" WIDTH="206" HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_1fe5dff5"
                          TAGREFS="LT178"
                          BASELINE="508 4357 2033 4352"
                          HPOS="503"
                          VPOS="4238"
                          WIDTH="1527"
-                         HEIGHT="152">messag͛ suí un rei qͥ nel aíme un butũ
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="co dist li reis charle de seint denís"
+                          HPOS="503"
+                          VPOS="4238"
+                          WIDTH="1527"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_d0d2c31a"
                          TAGREFS="LT178"
                          BASELINE="503 4498 2074 4486"
                          HPOS="498"
                          VPOS="4373"
                          WIDTH="1575"
-                         HEIGHT="147">prem͛ i a parle galter cil de valun
-</TextLine>
+                         HEIGHT="147">
+                  <String CONTENT="sarazin frere par la lei dũt tu vis"
+                          HPOS="498"
+                          VPOS="4373"
+                          WIDTH="1575"
+                          HEIGHT="147"/>
+               </TextLine>
                <TextLine ID="eSc_line_49b9625b"
                          TAGREFS="LT178"
                          BASELINE="286 4628 1882 4627"
                          HPOS="281"
                          VPOS="4520"
                          WIDTH="1597"
-                         HEIGHT="130">veí le tu la u set a cel fluri gernun
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="de quel parage es tu en tun pais"
+                          HPOS="281"
+                          VPOS="4520"
+                          WIDTH="1597"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_de77f309"
                          TAGREFS="LT178"
                          BASELINE="292 4747 1973 4746"
                          HPOS="286"
                          VPOS="4644"
                          WIDTH="1684"
-                         HEIGHT="125">celuí o la gͣnt barbe a cel veir pelicun
-</TextLine>
+                         HEIGHT="125">
+                  <String CONTENT="cum as a nun par ta lei kar me dis"
+                          HPOS="286"
+                          VPOS="4644"
+                          WIDTH="1684"
+                          HEIGHT="125"/>
+               </TextLine>
                <TextLine ID="eSc_line_c83bdec6"
                          TAGREFS="LT178"
                          BASELINE="308 4872 1873 4872"
                          HPOS="308"
                          VPOS="4758"
                          WIDTH="1565"
-                         HEIGHT="141">co est rolland si níes el v͛meil ciclatun
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="otinel sire co dist li sarazins"
+                          HPOS="308"
+                          VPOS="4758"
+                          WIDTH="1565"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_23622295"
                          TAGREFS="LT178"
                          BASELINE="297 5001 1786 5009"
                          HPOS="292"
                          VPOS="4882"
                          WIDTH="1488"
-                         HEIGHT="136">de l altͤ part veez u síet son ꝯpaignũ
-</TextLine>
+                         HEIGHT="136">
+                  <String CONTENT="fiz sui al rei galien al fier vis"
+                          HPOS="292"
+                          VPOS="4882"
+                          WIDTH="1488"
+                          HEIGHT="136"/>
+               </TextLine>
                <TextLine ID="eSc_line_64b73a46"
                          TAGREFS="LT178"
                          BASELINE="297 5148 2033 5147"
                          HPOS="292"
                          VPOS="5023"
                          WIDTH="1738"
-                         HEIGHT="141">le gẽtil ꝯte qͥ oliv͛ a nun
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="plus a mort hũmes e de ses maíns occis"
+                          HPOS="292"
+                          VPOS="5023"
+                          WIDTH="1738"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_80de600f"
                          TAGREFS="LT178"
                          BASELINE="297 5267 1964 5269"
                          HPOS="292"
                          VPOS="5164"
                          WIDTH="1667"
-                         HEIGHT="124">co sũt li duze pier qͥ lur sũt ẽvírun
-</TextLine>
+                         HEIGHT="124">
+                  <String CONTENT="k um ne trovereit en trestut cest pais"
+                          HPOS="292"
+                          VPOS="5164"
+                          WIDTH="1667"
+                          HEIGHT="124"/>
+               </TextLine>
                <TextLine ID="eSc_line_ad311037"
                          TAGREFS="LT178"
                          BASELINE="297 5397 2031 5416"
                          HPOS="292"
                          VPOS="5278"
                          WIDTH="1738"
-                         HEIGHT="156">mahun fait li paen ore conus jo charlũ
-</TextLine>
+                         HEIGHT="156">
+                  <String CONTENT="li reis garsie est mís germeins cusíns"
+                          HPOS="292"
+                          VPOS="5278"
+                          WIDTH="1738"
+                          HEIGHT="156"/>
+               </TextLine>
                <TextLine ID="eSc_line_d35cde42"
                          TAGREFS="LT178"
                          BASELINE="292 5532 1845 5527"
                          HPOS="292"
                          VPOS="5418"
                          WIDTH="1553"
-                         HEIGHT="163">mal feu e male flãbe li arde le mẽtũ
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="mis uncle fu fernagu li hardis"
+                          HPOS="292"
+                          VPOS="5418"
+                          WIDTH="1553"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_44d7ff4e"
                          TAGREFS="LT178"
                          BASELINE="311 5665 1858 5655"
                          HPOS="308"
                          VPOS="5537"
                          WIDTH="1548"
-                         HEIGHT="179">ke li fẽde le piz desk al talun
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="icil de nazre q̃ rodlant m at occis"
+                          HPOS="308"
+                          VPOS="5537"
+                          WIDTH="1548"
+                          HEIGHT="179"/>
+               </TextLine>
             </TextBlock>
             <TextBlock HPOS="1959"
                        VPOS="211"
@@ -459,352 +677,570 @@
                          HPOS="1970"
                          VPOS="200"
                          WIDTH="1646"
-                         HEIGHT="189">li sarazín en vient devãt le reí
-</TextLine>
+                         HEIGHT="189">
+                  <String CONTENT="demaín en ert en fier calenge mis"
+                          HPOS="1970"
+                          VPOS="200"
+                          WIDTH="1646"
+                          HEIGHT="189"/>
+               </TextLine>
                <TextLine ID="eSc_line_d808a3a5"
                          TAGREFS="LT178"
                          BASELINE="1995 477 3286 470"
                          HPOS="1992"
                          VPOS="357"
                          WIDTH="1293"
-                         HEIGHT="157">charles feit il ore entẽt vers meí
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="e dit li reis tu es assez gẽtilz"
+                          HPOS="1992"
+                          VPOS="357"
+                          WIDTH="1293"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_ebb3889a"
                          TAGREFS="LT178"
                          BASELINE="2051 619 3554 594"
                          HPOS="2046"
                          VPOS="481"
                          WIDTH="1505"
-                         HEIGHT="168">messag͛ sui co qͥd al meillur reí
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="mar fu tis cors q̃ baptesme n at pͥs"
+                          HPOS="2046"
+                          VPOS="481"
+                          WIDTH="1505"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_f43ba793"
                          TAGREFS="LT179"
                          BASELINE="1982 904 2145 901"
                          HPOS="1981"
                          VPOS="866"
                          WIDTH="162"
-                         HEIGHT="59">k unq̃s feust en la paiene leí
-</TextLine>
+                         HEIGHT="59">
+                  <Shape>
+                     <Polygon POINTS="1981 898 1992 866 2132 871 2143 898 2132 925 1992 904"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="1981" VPOS="866" WIDTH="162" HEIGHT="59"/>
+               </TextLine>
                <TextLine ID="eSc_line_fc6a81a0"
                          TAGREFS="LT178"
                          BASELINE="2203 752 3659 709"
                          HPOS="2203"
                          VPOS="611"
                          WIDTH="1456"
-                         HEIGHT="173">ne te salu k a dreit faíre nel dei
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="li reis apele sun chãberlẽc reiner"
+                          HPOS="2203"
+                          VPOS="611"
+                          WIDTH="1456"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_08697956"
                          TAGREFS="LT178"
                          BASELINE="2192 876 3578 849"
                          HPOS="2192"
                          VPOS="747"
                          WIDTH="1386"
-                         HEIGHT="157">forfait en es vers mahumet e vers meí
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="venez avant ꝑnez cest messag͛"
+                          HPOS="2192"
+                          VPOS="747"
+                          WIDTH="1386"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_2fb9bc41"
                          TAGREFS="LT178"
                          BASELINE="1959 1006 3637 963"
                          HPOS="1959"
                          VPOS="876"
                          WIDTH="1678"
-                         HEIGHT="168">cil te ꝯfunde en la ki lei jo crei
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="sil me menez a la maisun garner"
+                          HPOS="1959"
+                          VPOS="876"
+                          WIDTH="1678"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_16c73d9a"
                          TAGREFS="LT178"
                          BASELINE="2010 1138 3697 1108"
                          HPOS="2008"
                          VPOS="996"
                          WIDTH="1683"
-                         HEIGHT="157">e tuz ces altres qͥ sũt envirũ teí
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="dunez al hoste cenz souz p᷑ son mãg͛"
+                          HPOS="2008"
+                          VPOS="996"
+                          WIDTH="1683"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_56f0c0cc"
                          TAGREFS="LT178"
                          BASELINE="2020 1251 3491 1234"
                          HPOS="2019"
                          VPOS="1131"
                          WIDTH="1467"
-                         HEIGHT="157">e ton nevu rollãt q̃ jo cí veí
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="e altre tãt donez p᷑ son destrier"
+                          HPOS="2019"
+                          VPOS="1131"
+                          WIDTH="1467"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_ca8f8f2a"
                          TAGREFS="LT178"
                          BASELINE="1986 1391 3735 1342"
                          HPOS="1986"
                          VPOS="1342"
                          WIDTH="1749"
-                         HEIGHT="87">si uncore un jor le truís ẽ t᷑neí
-</TextLine>
+                         HEIGHT="87">
+                  <String CONTENT="puís si apele le vielz chanu richer"
+                          HPOS="1986"
+                          VPOS="1342"
+                          WIDTH="1749"
+                          HEIGHT="87"/>
+               </TextLine>
                <TextLine ID="eSc_line_e03a8156"
                          TAGREFS="LT178"
                          BASELINE="1986 1515 3507 1477"
                          HPOS="1986"
                          VPOS="1391"
                          WIDTH="1521"
-                         HEIGHT="146">ke mũ destrer puisse acurser v͛s seí
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="galter de líuns e lí deneis oger"
+                          HPOS="1986"
+                          VPOS="1391"
+                          WIDTH="1521"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_eefa0ffe"
                          TAGREFS="LT178"
                          BASELINE="1986 1629 3497 1602"
                          HPOS="1986"
                          VPOS="1510"
                          WIDTH="1511"
-                         HEIGHT="151">de m espee le qͥd faire un espeí
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="pernez feít il garde del chevaler"
+                          HPOS="1986"
+                          VPOS="1510"
+                          WIDTH="1511"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_bd04c213"
                          TAGREFS="LT178"
                          BASELINE="1965 1753 3664 1726"
                          HPOS="1965"
                          VPOS="1629"
                          WIDTH="1699"
-                         HEIGHT="157">par mi le cors ml̃t ert fort si nel pleí
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="sil servez bien de co qͥ l at mester"
+                          HPOS="1965"
+                          VPOS="1629"
+                          WIDTH="1699"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_e54593b4"
                          TAGREFS="LT178"
                          BASELINE="1981 1878 3513 1856"
                          HPOS="1981"
                          VPOS="1748"
                          WIDTH="1532"
-                         HEIGHT="162">rollãt se rit si reguarde le rei
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="cele nuít l unt leisse issi ester"
+                          HPOS="1981"
+                          VPOS="1748"
+                          WIDTH="1532"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_6bb6dbfd"
                          TAGREFS="LT178"
                          BASELINE="1996 2019 3605 1975"
                          HPOS="1992"
                          VPOS="1878"
                          WIDTH="1607"
-                         HEIGHT="157">sarazĩ frere fet rollãt l alosez
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="jesk al demein q̃ li jur parut cler"
+                          HPOS="1992"
+                          VPOS="1878"
+                          WIDTH="1607"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_ee9bae75"
                          TAGREFS="LT178"
                          BASELINE="1986 2143 3729 2100"
                          HPOS="1986"
                          VPOS="2002"
                          WIDTH="1743"
-                         HEIGHT="184">tu poez bien dire tutes tes volẽtez
-</TextLine>
+                         HEIGHT="184">
+                  <String CONTENT="charles se lieve si fait rodlant mãder"
+                          HPOS="1986"
+                          VPOS="2002"
+                          WIDTH="1743"
+                          HEIGHT="184"/>
+               </TextLine>
                <TextLine ID="eSc_line_9c893fc6"
                          TAGREFS="LT178"
                          BASELINE="1986 2268 3432 2235"
                          HPOS="1986"
                          VPOS="2143"
                          WIDTH="1446"
-                         HEIGHT="152">ja pur franceis ne serras atuchez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="en la chapele sũt ale pur urer"
+                          HPOS="1986"
+                          VPOS="2143"
+                          WIDTH="1446"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_79e02ebf"
                          TAGREFS="LT178"
                          BASELINE="1981 2392 3659 2354"
                          HPOS="1981"
                          VPOS="2257"
                          WIDTH="1678"
-                         HEIGHT="168">nun co dit charles puis ke v⁹ le volez
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="la messe chante l abes de seint omer"
+                          HPOS="1981"
+                          VPOS="2257"
+                          WIDTH="1678"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_8f2e60fa"
                          TAGREFS="LT178"
                          BASELINE="1986 2517 3491 2484"
                          HPOS="1986"
                          VPOS="2387"
                          WIDTH="1505"
-                         HEIGHT="162">de meie part est il bien afiez
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="un hanap d or fait li reis aporter"
+                          HPOS="1986"
+                          VPOS="2387"
+                          WIDTH="1505"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_f84f8c0d"
                          TAGREFS="LT178"
                          BASELINE="1999 2657 3407 2606"
                          HPOS="1997"
                          VPOS="2517"
                          WIDTH="1407"
-                         HEIGHT="178">de huí en cest jor desk a uit jurs passez
-</TextLine>
+                         HEIGHT="178">
+                  <String CONTENT="de paresíns si l at bien fet cũbler"
+                          HPOS="1997"
+                          VPOS="2517"
+                          WIDTH="1407"
+                          HEIGHT="178"/>
+               </TextLine>
                <TextLine ID="eSc_line_a0c90ca7"
                          TAGREFS="LT178"
                          BASELINE="1986 2787 3415 2755"
                          HPOS="1986"
                          VPOS="2657"
                          WIDTH="1429"
-                         HEIGHT="157">dist otuel de folie parlez
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="offrende funt il e li duze pier"
+                          HPOS="1986"
+                          VPOS="2657"
+                          WIDTH="1429"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_60ca4536"
                          TAGREFS="LT178"
                          BASELINE="2042 2917 3532 2899"
                          HPOS="2040"
                          VPOS="2782"
                          WIDTH="1489"
-                         HEIGHT="152">ne redut hũme qͥ de mere seit nez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="rodlant offri durendal al bͣnt cler"
+                          HPOS="2040"
+                          VPOS="2782"
+                          WIDTH="1489"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_981f3022"
                          TAGREFS="LT178"
                          BASELINE="1997 3036 3415 3015"
                          HPOS="1997"
                          VPOS="2917"
                          WIDTH="1418"
-                         HEIGHT="146">tãt cũ av͛ai cest espee a mũ leez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="pur rancũ i feit set mars doner"
+                          HPOS="1997"
+                          VPOS="2917"
+                          WIDTH="1418"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_daf0ac34"
                          TAGREFS="LT178"
                          BASELINE="2020 3170 3534 3140"
                          HPOS="2019"
                          VPOS="3036"
                          WIDTH="1510"
-                         HEIGHT="157">co est curcuse dũt jo sui adubez
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="ap͛s la messe funt les ures chanter"
+                          HPOS="2019"
+                          VPOS="3036"
+                          WIDTH="1510"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_4710a928"
                          TAGREFS="LT178"
                          BASELINE="1997 3291 3697 3248"
                          HPOS="1997"
                          VPOS="3155"
                          WIDTH="1700"
-                         HEIGHT="163">n en at míe uncore nef meis passez
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="del mustier eissent puis si vont esgarder"
+                          HPOS="1997"
+                          VPOS="3155"
+                          WIDTH="1700"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_b946115a"
                          TAGREFS="LT178"
                          BASELINE="2013 3410 3686 3388"
                          HPOS="2013"
                          VPOS="3307"
                          WIDTH="1673"
-                         HEIGHT="141">k a mil fͣnceis en ai les chefs colpez
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="le sarazin qͥ víent al rei parler"
+                          HPOS="2013"
+                          VPOS="3307"
+                          WIDTH="1673"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_5cdd25d9"
                          TAGREFS="LT179"
                          BASELINE="1989 3672 2169 3666"
                          HPOS="1986"
                          VPOS="3643"
                          WIDTH="179"
-                         HEIGHT="27">u fu co frere fet charles li remẽbrez
-</TextLine>
+                         HEIGHT="27">
+                  <Shape>
+                     <Polygon POINTS="1986 3670 1992 3643 2149 3643 2165 3664 1997 3670"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="1986" VPOS="3643" WIDTH="179" HEIGHT="27"/>
+               </TextLine>
                <TextLine ID="eSc_line_ca26f4e1"
                          TAGREFS="LT178"
                          BASELINE="2251 3529 3556 3529"
                          HPOS="2251"
                          VPOS="3426"
                          WIDTH="1305"
-                         HEIGHT="141">dit otinel jo v⁹ dirra assez
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="li sarazin víent orguillusemẽt"
+                          HPOS="2251"
+                          VPOS="3426"
+                          WIDTH="1305"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_3a833dd6"
                          TAGREFS="LT178"
                          BASELINE="2197 3659 3469 3648"
                          HPOS="2197"
                          VPOS="3556"
                          WIDTH="1272"
-                         HEIGHT="130">ore at uít meis el nefme sui ẽtrez
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="le rei apele si li dit fiermẽt"
+                          HPOS="2197"
+                          VPOS="3556"
+                          WIDTH="1272"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_bda1dc42"
                          TAGREFS="LT178"
                          BASELINE="1981 3794 3415 3778"
                          HPOS="1981"
                          VPOS="3675"
                          WIDTH="1434"
-                         HEIGHT="152">destruite iert rõme ta vaillãte citez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="charles fait il u est ore rodlant"
+                          HPOS="1981"
+                          VPOS="3675"
+                          WIDTH="1434"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_9f0f122b"
                          TAGREFS="LT178"
                          BASELINE="1994 3924 3448 3908"
                          HPOS="1992"
                          VPOS="3805"
                          WIDTH="1450"
-                         HEIGHT="157">de laq̃le estes ẽꝑere clamez
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="li vostre níes q̃ v⁹ par amez tãt"
+                          HPOS="1992"
+                          VPOS="3805"
+                          WIDTH="1450"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_bcf0de79"
                          TAGREFS="LT178"
                          BASELINE="2008 4065 3497 4038"
                          HPOS="2008"
                          VPOS="3946"
                          WIDTH="1489"
-                         HEIGHT="151">li reis garsie la pͥst e sis barnez
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="par ki franceis se vont asseurant"
+                          HPOS="2008"
+                          VPOS="3946"
+                          WIDTH="1489"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_32af5db8"
                          TAGREFS="LT178"
                          BASELINE="1992 4200 3318 4173"
                          HPOS="1992"
                          VPOS="4081"
                          WIDTH="1326"
-                         HEIGHT="152">vínt mil hũmes tut a cũte nũbrez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="de fei mẽti l apel cũ recreant"
+                          HPOS="1992"
+                          VPOS="4081"
+                          WIDTH="1326"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_94a9f9dd"
                          TAGREFS="LT178"
                          BASELINE="2075 4350 3536 4335"
                          HPOS="2073"
                          VPOS="4222"
                          WIDTH="1461"
-                         HEIGHT="135">hũmes q̃ fẽmes uncore plus assez
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="se il ne tient vers mei mũ covenãt"
+                          HPOS="2073"
+                          VPOS="4222"
+                          WIDTH="1461"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_76c20fe5"
                          TAGREFS="LT178"
                          BASELINE="2126 4482 3454 4470"
                          HPOS="2122"
                          VPOS="4357"
                          WIDTH="1331"
-                         HEIGHT="130">i avíum mort n est un eschapez
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="ke er feimes tute la curt veant"
+                          HPOS="2122"
+                          VPOS="4357"
+                          WIDTH="1331"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_f407fe96"
                          TAGREFS="LT178"
                          BASELINE="2052 4621 3352 4613"
                          HPOS="2051"
                          VPOS="4487"
                          WIDTH="1299"
-                         HEIGHT="146">e jo i feri tãt de m espee de lez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="a ces paroles se treit li qͦns avãt"
+                          HPOS="2051"
+                          VPOS="4487"
+                          WIDTH="1299"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_d6d4edaa"
                          TAGREFS="LT178"
                          BASELINE="2050 4741 3415 4731"
                          HPOS="2046"
                          VPOS="4622"
                          WIDTH="1364"
-                         HEIGHT="125">ke uit jurs pleners oi les poĩz ẽflez
-</TextLine>
+                         HEIGHT="125">
+                  <String CONTENT="trestut irre e plein de maltalãt"
+                          HPOS="2046"
+                          VPOS="4622"
+                          WIDTH="1364"
+                          HEIGHT="125"/>
+               </TextLine>
                <TextLine ID="eSc_line_ab50ebc8"
                          TAGREFS="LT178"
                          BASELINE="2028 4866 3507 4839"
                          HPOS="2024"
                          VPOS="4742"
                          WIDTH="1478"
-                         HEIGHT="178">diẽt fͣnceis mar fustes unq̃s nez
-</TextLine>
+                         HEIGHT="178">
+                  <String CONTENT="par cel apostle ki q̃rent penant"
+                          HPOS="2024"
+                          VPOS="4742"
+                          WIDTH="1478"
+                          HEIGHT="178"/>
+               </TextLine>
                <TextLine ID="eSc_line_6a4ca556"
                          TAGREFS="LT178"
                          BASELINE="2048 5013 3448 5003"
                          HPOS="2046"
                          VPOS="4991"
                          WIDTH="1396"
-                         HEIGHT="21">estult de lengres est en piez levez
-</TextLine>
+                         HEIGHT="21">
+                  <String CONTENT="jo ne larreie p᷑ nul hũme vívãt"
+                          HPOS="2046"
+                          VPOS="4991"
+                          WIDTH="1396"
+                          HEIGHT="21"/>
+               </TextLine>
                <TextLine ID="eSc_line_292502c4"
                          TAGREFS="LT178"
                          BASELINE="2079 5137 3354 5127"
                          HPOS="2078"
                          VPOS="5018"
                          WIDTH="1272"
-                         HEIGHT="130">tínt un bastun q̃ devãt fu qͣrrez
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="ke jo encui ne te rende teisant"
+                          HPOS="2078"
+                          VPOS="5018"
+                          WIDTH="1272"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_ada72c0d"
                          TAGREFS="LT178"
                          BASELINE="2077 5271 3355 5269"
                          HPOS="2073"
                          VPOS="5240"
                          WIDTH="1277"
-                         HEIGHT="43">ja le ferist co savum n⁹ assez
-</TextLine>
+                         HEIGHT="43">
+                  <String CONTENT="mat u vencu mort u recreant"
+                          HPOS="2073"
+                          VPOS="5240"
+                          WIDTH="1277"
+                          HEIGHT="43"/>
+               </TextLine>
                <TextLine ID="eSc_line_4fff28ee"
                          TAGREFS="LT178"
                          BASELINE="2074 5407 3251 5394"
                          HPOS="2073"
                          VPOS="5278"
                          WIDTH="1175"
-                         HEIGHT="135">meis li níes charles en ẽꝯtre alez
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="dist otinel feites dũc itant"
+                          HPOS="2073"
+                          VPOS="5278"
+                          WIDTH="1175"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_1be7ef15"
                          TAGREFS="LT178"
                          BASELINE="2056 5532 3534 5505"
                          HPOS="2051"
                          VPOS="5397"
                          WIDTH="1478"
-                         HEIGHT="167">se lí a dit sire estult reposez
-</TextLine>
+                         HEIGHT="167">
+                  <String CONTENT="pernez vos armes par itel covenãt"
+                          HPOS="2051"
+                          VPOS="5397"
+                          WIDTH="1478"
+                          HEIGHT="167"/>
+               </TextLine>
                <TextLine ID="eSc_line_f4e1c687"
                          TAGREFS="LT178"
                          BASELINE="2057 5662 3568 5651"
                          HPOS="2051"
                          VPOS="5537"
                          WIDTH="1516"
-                         HEIGHT="168">pur meíe amur si de rien m amez
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="si jo v⁹ fail pendez moi jol v⁹ grant"
+                          HPOS="2051"
+                          VPOS="5537"
+                          WIDTH="1516"
+                          HEIGHT="168"/>
+               </TextLine>
             </TextBlock>
             <TextBlock HPOS="3836"
                        VPOS="218"
@@ -823,8 +1259,13 @@
                          HPOS="3875"
                          VPOS="189"
                          WIDTH="201"
-                         HEIGHT="200">kar li paen est de mei afiez
-</TextLine>
+                         HEIGHT="200">
+                  <String CONTENT="[ERROR]"
+                          HPOS="3875"
+                          VPOS="189"
+                          WIDTH="201"
+                          HEIGHT="200"/>
+               </TextLine>
             </TextBlock>
          </PrintSpace>
       </Page>

@@ -67,344 +67,558 @@
                          HPOS="990"
                          VPOS="189"
                          WIDTH="1446"
-                         HEIGHT="168">deu ne fist hũme qͥ lur tolsist essie
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="ja le ferist co savum n⁹ assez"
+                          HPOS="990"
+                          VPOS="189"
+                          WIDTH="1446"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_fe48c525"
                          TAGREFS="LT178"
                          BASELINE="979 427 2463 454"
                          HPOS="979"
                          VPOS="335"
                          WIDTH="1484"
-                         HEIGHT="152">ne lur pescher ne lur gaanerie
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="meis li níes charles en ẽꝯtre alez"
+                          HPOS="979"
+                          VPOS="335"
+                          WIDTH="1484"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_606a1d95"
                          TAGREFS="LT178"
                          BASELINE="974 573 2452 584"
                          HPOS="974"
                          VPOS="465"
                          WIDTH="1478"
-                         HEIGHT="157">si charles i venist od la barbe flurie
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="se lí a dit sire estult reposez"
+                          HPOS="974"
+                          VPOS="465"
+                          WIDTH="1478"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_815e5d23"
                          TAGREFS="LT178"
                          BASELINE="1017 698 2625 754"
                          HPOS="1012"
                          VPOS="590"
                          WIDTH="1608"
-                         HEIGHT="178">la conuistrũ ki av͛a amie
-</TextLine>
+                         HEIGHT="178">
+                  <String CONTENT="pur meíe amur si de rien m amez"
+                          HPOS="1012"
+                          VPOS="590"
+                          WIDTH="1608"
+                          HEIGHT="178"/>
+               </TextLine>
                <TextLine ID="eSc_line_b717cd5e"
                          TAGREFS="LT178"
                          BASELINE="985 817 2354 855"
                          HPOS="985"
                          VPOS="714"
                          WIDTH="1369"
-                         HEIGHT="162">ki meuz ferra d espee furbie
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="kar li paen est de mei afiez"
+                          HPOS="985"
+                          VPOS="714"
+                          WIDTH="1369"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_58494ab5"
                          TAGREFS="LT178"
                          BASELINE="979 952 2588 1002"
                          HPOS="974"
                          VPOS="833"
                          WIDTH="1613"
-                         HEIGHT="184">meis dan vilein n í venez v⁹ míe
-</TextLine>
+                         HEIGHT="184">
+                  <String CONTENT="laissez luí dire tutes ses volẽtez"
+                          HPOS="974"
+                          VPOS="833"
+                          WIDTH="1613"
+                          HEIGHT="184"/>
+               </TextLine>
                <TextLine ID="eSc_line_00df0ca6"
                          TAGREFS="LT178"
                          BASELINE="979 1082 2555 1109"
                          HPOS="979"
                          VPOS="974"
                          WIDTH="1576"
-                         HEIGHT="162">par mun ꝯseil garderez paris la vile
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="un chevaler i sist q̃ fu mal senez"
+                          HPOS="979"
+                          VPOS="974"
+                          WIDTH="1576"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_89376ed9"
                          TAGREFS="LT178"
                          BASELINE="990 1207 2585 1252"
                          HPOS="985"
                          VPOS="1104"
                          WIDTH="1597"
-                         HEIGHT="168">k escufle n í entre ne corneile ne pie
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="provẽcel iert de seínt gile fu nez"
+                          HPOS="985"
+                          VPOS="1104"
+                          WIDTH="1597"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_8d219cd0"
                          TAGREFS="LT178"
                          BASELINE="1012 1342 2392 1369"
                          HPOS="1012"
                          VPOS="1228"
                          WIDTH="1380"
-                         HEIGHT="163">kar par v⁹ n ert mes faite chevalerie
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="al messag͛ est derere alez"
+                          HPOS="1012"
+                          VPOS="1228"
+                          WIDTH="1380"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_f4588e28"
                          TAGREFS="LT178"
                          BASELINE="985 1467 2663 1507"
                          HPOS="979"
                          VPOS="1347"
                          WIDTH="1678"
-                         HEIGHT="179">tel vergoine at li duc ne set qͥ l die
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="amduí ses puínz li at el chief mellez"
+                          HPOS="979"
+                          VPOS="1347"
+                          WIDTH="1678"
+                          HEIGHT="179"/>
+               </TextLine>
                <TextLine ID="eSc_line_0f70607f"
                          TAGREFS="LT178"
                          BASELINE="990 1586 2618 1624"
                          HPOS="985"
                          VPOS="1477"
                          WIDTH="1629"
-                         HEIGHT="168">li duc rodlant s est en piez levez
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="trait le a t͛re kar cil ne s est gardez"
+                          HPOS="985"
+                          VPOS="1477"
+                          WIDTH="1629"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_00abe273"
                          TAGREFS="LT178"
                          BASELINE="1006 1710 2544 1737"
                          HPOS="1006"
                          VPOS="1602"
                          WIDTH="1538"
-                         HEIGHT="151">mal talẽt at a poí n est forsenez
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="meis otinel est ml̃t tost relevez"
+                          HPOS="1006"
+                          VPOS="1602"
+                          WIDTH="1538"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_05ea6f9a"
                          TAGREFS="LT178"
                          BASELINE="985 1829 2658 1886"
                          HPOS="979"
                          VPOS="1710"
                          WIDTH="1678"
-                         HEIGHT="190">vers le paen s en est treis pas alez
-</TextLine>
+                         HEIGHT="190">
+                  <String CONTENT="trait curcuse dũt le pũz fu dorrez"
+                          HPOS="979"
+                          VPOS="1710"
+                          WIDTH="1678"
+                          HEIGHT="190"/>
+               </TextLine>
                <TextLine ID="eSc_line_95da0599"
                          TAGREFS="LT178"
                          BASELINE="974 1970 2463 1997"
                          HPOS="974"
                          VPOS="1856"
                          WIDTH="1489"
-                         HEIGHT="163">si lí a dit culvert desmesurez
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="ferir le veit ne s est pas ubliez"
+                          HPOS="974"
+                          VPOS="1856"
+                          WIDTH="1489"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_2b7bb222"
                          TAGREFS="LT178"
                          BASELINE="985 2094 2522 2127"
                          HPOS="985"
                          VPOS="1986"
                          WIDTH="1537"
-                         HEIGHT="163">mult par t as ui e prisez e vantez
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="k as piez le rei ẽ est le chef colpez"
+                          HPOS="985"
+                          VPOS="1986"
+                          WIDTH="1537"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_a1eb182f"
                          TAGREFS="LT178"
                          BASELINE="979 2224 2571 2257"
                          HPOS="979"
                          VPOS="2116"
                          WIDTH="1592"
-                         HEIGHT="168">de ta parole devãt franceis loez
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="fͣnceis s escriẽt barũ kar le ꝑnez"
+                          HPOS="979"
+                          VPOS="2116"
+                          WIDTH="1592"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_889a25c3"
                          TAGREFS="LT178"
                          BASELINE="985 2343 2273 2381"
                          HPOS="985"
                          VPOS="2246"
                          WIDTH="1288"
-                         HEIGHT="152">mes par celui k en croiz fu penez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="otinel s est a une part t᷑nez"
+                          HPOS="985"
+                          VPOS="2246"
+                          WIDTH="1288"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_c6875b4e"
                          TAGREFS="LT178"
                          BASELINE="974 2468 2549 2495"
                          HPOS="974"
                          VPOS="2371"
                          WIDTH="1575"
-                         HEIGHT="146">ja murriez ne fuissez afiez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="les oilz roille les gernuns a levez"
+                          HPOS="974"
+                          VPOS="2371"
+                          WIDTH="1575"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_f3f6c020"
                          TAGREFS="LT178"
                          BASELINE="979 2609 2457 2625"
                          HPOS="979"
                          VPOS="2495"
                          WIDTH="1478"
-                         HEIGHT="152">mes s en bataille puissez estre ẽꝯtrez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="líun resemble qͥ seit ẽchaenez"
+                          HPOS="979"
+                          VPOS="2495"
+                          WIDTH="1478"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_dc5ca063"
                          TAGREFS="LT178"
                          BASELINE="990 2739 2635 2784"
                          HPOS="985"
                          VPOS="2625"
                          WIDTH="1645"
-                         HEIGHT="179">tel te dorrai de m espee de lez
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="en halt s escrie baruns ne v⁹ remuez"
+                          HPOS="985"
+                          VPOS="2625"
+                          WIDTH="1645"
+                          HEIGHT="179"/>
+               </TextLine>
                <TextLine ID="eSc_line_bef29e46"
                          TAGREFS="LT178"
                          BASELINE="979 2874 2549 2901"
                          HPOS="979"
                          VPOS="2760"
                          WIDTH="1570"
-                         HEIGHT="163">ja puis de tei n ert franc hũme ẽꝯbrez
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="kar par icel dex a qͥ me suí donez"
+                          HPOS="979"
+                          VPOS="2760"
+                          WIDTH="1570"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_c64841bd"
                          TAGREFS="LT178"
                          BASELINE="985 2998 2517 3020"
                          HPOS="985"
                          VPOS="2896"
                          WIDTH="1532"
-                         HEIGHT="146">dit otinel ja le savum assez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="ja murent set cenz si v⁹ croulez"
+                          HPOS="985"
+                          VPOS="2896"
+                          WIDTH="1532"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_b24cd7e4"
                          TAGREFS="LT178"
                          BASELINE="963 3134 2544 3150"
                          HPOS="963"
                          VPOS="3031"
                          WIDTH="1581"
-                         HEIGHT="146">bataille averas si feire l osez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="l emꝑere s en est en piez levez"
+                          HPOS="963"
+                          VPOS="3031"
+                          WIDTH="1581"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_dad3853e"
                          TAGREFS="LT178"
                          BASELINE="968 3264 2414 3280"
                          HPOS="968"
                          VPOS="3155"
                          WIDTH="1446"
-                         HEIGHT="147">demaín matín v⁹ sumũs ẽ ces prez
-</TextLine>
+                         HEIGHT="147">
+                  <String CONTENT="si luí a dit l espee me donez"
+                          HPOS="968"
+                          VPOS="3155"
+                          WIDTH="1446"
+                          HEIGHT="147"/>
+               </TextLine>
                <TextLine ID="eSc_line_5d0f35b0"
                          TAGREFS="LT178"
                          BASELINE="968 3399 2365 3388"
                          HPOS="968"
                          VPOS="3280"
                          WIDTH="1397"
-                         HEIGHT="130">e dit rodlant kar le m aseurez
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="dit li paien de folie parlez"
+                          HPOS="968"
+                          VPOS="3280"
+                          WIDTH="1397"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_736461e3"
                          TAGREFS="LT178"
                          BASELINE="968 3518 2560 3502"
                          HPOS="968"
                          VPOS="3399"
                          WIDTH="1592"
-                         HEIGHT="146">fet le paen la meie fei tenez
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="dũc dist rodlant a mei la rendez"
+                          HPOS="968"
+                          VPOS="3399"
+                          WIDTH="1592"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_f72bdb0f"
                          TAGREFS="LT178"
                          BASELINE="974 3648 2522 3632"
                          HPOS="974"
                          VPOS="3524"
                          WIDTH="1548"
-                         HEIGHT="157">e ma creance e tutes mes lealtez
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="assez l averez qͣnt v⁹ departirez"
+                          HPOS="974"
+                          VPOS="3524"
+                          WIDTH="1548"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_36a4823e"
                          TAGREFS="LT178"
                          BASELINE="979 3762 2430 3778"
                          HPOS="979"
                          VPOS="3664"
                          WIDTH="1451"
-                         HEIGHT="136">par ki remaine seit cuard pruvez
-</TextLine>
+                         HEIGHT="136">
+                  <String CONTENT="dit otinel beal sire ore la tenez"
+                          HPOS="979"
+                          VPOS="3664"
+                          WIDTH="1451"
+                          HEIGHT="136"/>
+               </TextLine>
                <TextLine ID="eSc_line_5d174098"
                          TAGREFS="LT178"
                          BASELINE="968 3903 2603 3927"
                          HPOS="963"
                          VPOS="3789"
                          WIDTH="1635"
-                         HEIGHT="162">l espurũ lui seit des piez colpez
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="mes ml̃t v⁹ pri ke bien la me guardez"
+                          HPOS="963"
+                          VPOS="3789"
+                          WIDTH="1635"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_a415d5eb"
                          TAGREFS="LT178"
                          BASELINE="985 4054 2555 4054"
                          HPOS="985"
                          VPOS="3935"
                          WIDTH="1570"
-                         HEIGHT="141">james en curt ne seit mes honurez
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="ne la doreie p᷑ set de vos citez"
+                          HPOS="985"
+                          VPOS="3935"
+                          WIDTH="1570"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_c198af65"
                          TAGREFS="LT178"
                          BASELINE="968 4179 2756 4204"
                          HPOS="963"
                          VPOS="4070"
                          WIDTH="1792"
-                         HEIGHT="152">lur feiz en donent ore sũt asseurez
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="uncore en ert de celui vostre chief colpez"
+                          HPOS="963"
+                          VPOS="4070"
+                          WIDTH="1792"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_088e1663"
                          TAGREFS="LT178"
                          BASELINE="983 4335 2577 4339"
                          HPOS="979"
                          VPOS="4211"
                          WIDTH="1597"
-                         HEIGHT="130">co dist li reis charle de seint denís
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="dist rodlant par fei trop v⁹ avãtez"
+                          HPOS="979"
+                          VPOS="4211"
+                          WIDTH="1597"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_3f4dff6b"
                          TAGREFS="LT178"
                          BASELINE="963 4466 2582 4455"
                          HPOS="963"
                          VPOS="4341"
                          WIDTH="1619"
-                         HEIGHT="141">sarazin frere par la lei dũt tu vis
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="vostre message dites puis v⁹ en alez"
+                          HPOS="963"
+                          VPOS="4341"
+                          WIDTH="1619"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_13b96415"
                          TAGREFS="LT178"
                          BASELINE="990 4601 2560 4585"
                          HPOS="990"
                          VPOS="4471"
                          WIDTH="1570"
-                         HEIGHT="146">de quel parage es tu en tun pais
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="jo volenters dist il ore escutez"
+                          HPOS="990"
+                          VPOS="4471"
+                          WIDTH="1570"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_fb4867c9"
                          TAGREFS="LT179"
                          BASELINE="1036 4843 1187 4845"
                          HPOS="1033"
                          VPOS="4817"
                          WIDTH="152"
-                         HEIGHT="55">cum as a nun par ta lei kar me dis
-</TextLine>
+                         HEIGHT="55">
+                  <Shape>
+                     <Polygon POINTS="1033 4839 1044 4817 1174 4817 1185 4844 1104 4872 1039 4855"/>
+                  </Shape>
+                  <String CONTENT="" HPOS="1033" VPOS="4817" WIDTH="152" HEIGHT="55"/>
+               </TextLine>
                <TextLine ID="eSc_line_3a11aa7c"
                          TAGREFS="LT178"
                          BASELINE="1223 4720 2741 4739"
                          HPOS="1218"
                          VPOS="4606"
                          WIDTH="1521"
-                         HEIGHT="157">otinel sire co dist li sarazins
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="charles feit il jo ne te celerai mie"
+                          HPOS="1218"
+                          VPOS="4606"
+                          WIDTH="1521"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_541228e7"
                          TAGREFS="LT178"
                          BASELINE="1223 4850 2384 4868"
                          HPOS="1218"
                          VPOS="4731"
                          WIDTH="1163"
-                         HEIGHT="157">fiz sui al rei galien al fier vis
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="messag͛ suí l ẽꝑur garsie"
+                          HPOS="1218"
+                          VPOS="4731"
+                          WIDTH="1163"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_585fdbee"
                          TAGREFS="LT178"
                          BASELINE="985 4969 2716 5001"
                          HPOS="979"
                          VPOS="4850"
                          WIDTH="1733"
-                         HEIGHT="157">plus a mort hũmes e de ses maíns occis
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="ki tient espaníe alixandre e bucie"
+                          HPOS="979"
+                          VPOS="4850"
+                          WIDTH="1733"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_02ad4723"
                          TAGREFS="LT178"
                          BASELINE="997 5108 2593 5132"
                          HPOS="996"
                          VPOS="4985"
                          WIDTH="1596"
-                         HEIGHT="168">k um ne trovereit en trestut cest pais
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="tyre e sydoníe perse e barbarie"
+                          HPOS="996"
+                          VPOS="4985"
+                          WIDTH="1596"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_ce29c41b"
                          TAGREFS="LT178"
                          BASELINE="990 5256 2611 5276"
                          HPOS="985"
                          VPOS="5131"
                          WIDTH="1624"
-                         HEIGHT="141">li reis garsie est mís germeins cusíns
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="e destreint tut de si k en femelie"
+                          HPOS="985"
+                          VPOS="5131"
+                          WIDTH="1624"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_dc540bce"
                          TAGREFS="LT178"
                          BASELINE="985 5380 2601 5399"
                          HPOS="979"
                          VPOS="5267"
                          WIDTH="1619"
-                         HEIGHT="151">mis uncle fu fernagu li hardis
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="par mei te mande leisse cristieníe"
+                          HPOS="979"
+                          VPOS="5267"
+                          WIDTH="1619"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_611fa3cc"
                          TAGREFS="LT178"
                          BASELINE="1006 5521 2484 5527"
                          HPOS="1006"
                          VPOS="5402"
                          WIDTH="1478"
-                         HEIGHT="130">icil de nazre q̃ rodlant m at occis
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="cristiente ne valt une alíe"
+                          HPOS="1006"
+                          VPOS="5402"
+                          WIDTH="1478"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_b017b80a"
                          TAGREFS="LT178"
                          BASELINE="979 5651 2722 5667"
                          HPOS="974"
                          VPOS="5532"
                          WIDTH="1743"
-                         HEIGHT="179">demaín en ert en fier calenge mis
-</TextLine>
+                         HEIGHT="179">
+                  <String CONTENT="mes serf mahun qͥ tut le mũde guíe"
+                          HPOS="974"
+                          VPOS="5532"
+                          WIDTH="1743"
+                          HEIGHT="179"/>
+               </TextLine>
             </TextBlock>
             <TextBlock HPOS="2662"
                        VPOS="163"
@@ -421,839 +635,546 @@
                          HPOS="2674"
                          VPOS="200"
                          WIDTH="1429"
-                         HEIGHT="211">e dit li reis tu es assez gẽtilz
-</TextLine>
+                         HEIGHT="211">
+                  <String CONTENT="ki si ne creít il feit gͣnt folie"
+                          HPOS="2674"
+                          VPOS="200"
+                          WIDTH="1429"
+                          HEIGHT="211"/>
+               </TextLine>
                <TextLine ID="eSc_line_2f0092e0"
                          TAGREFS="LT178"
                          BASELINE="2663 460 4070 498"
                          HPOS="2663"
                          VPOS="357"
                          WIDTH="1407"
-                         HEIGHT="173">mar fu tis cors q̃ baptesme n at pͥs
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="devienc sis tu e ta cõpaignie"
+                          HPOS="2663"
+                          VPOS="357"
+                          WIDTH="1407"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_d7654b6d"
                          TAGREFS="LT178"
                          BASELINE="2679 611 3415 606 4325 644"
                          HPOS="2679"
                          VPOS="487"
                          WIDTH="1646"
-                         HEIGHT="184">li reis apele sun chãberlẽc reiner
-</TextLine>
+                         HEIGHT="184">
+                  <String CONTENT="puis si t en víen al riche rei garsie"
+                          HPOS="2679"
+                          VPOS="487"
+                          WIDTH="1646"
+                          HEIGHT="184"/>
+               </TextLine>
                <TextLine ID="eSc_line_93fa5d27"
                          TAGREFS="LT178"
                          BASELINE="2700 734 4006 758"
                          HPOS="2695"
                          VPOS="627"
                          WIDTH="1310"
-                         HEIGHT="157">venez avant ꝑnez cest messag͛
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="il te dorra aver e manantíe"
+                          HPOS="2695"
+                          VPOS="627"
+                          WIDTH="1310"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_6ee4a827"
                          TAGREFS="LT178"
                          BASELINE="2679 849 4173 887"
                          HPOS="2679"
                          VPOS="752"
                          WIDTH="1494"
-                         HEIGHT="162">sil me menez a la maisun garner
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="ensurketut te larra normẽdie"
+                          HPOS="2679"
+                          VPOS="752"
+                          WIDTH="1494"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_052838cb"
                          TAGREFS="LT178"
                          BASELINE="2693 989 4152 1027"
                          HPOS="2690"
                          VPOS="887"
                          WIDTH="1456"
-                         HEIGHT="163">dunez al hoste cenz souz p᷑ son mãg͛
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="e d englet͛re les porz e la navie"
+                          HPOS="2690"
+                          VPOS="887"
+                          WIDTH="1456"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_a17bf296"
                          TAGREFS="LT178"
                          BASELINE="2652 1109 4352 1147"
                          HPOS="2652"
                          VPOS="1012"
                          WIDTH="1700"
-                         HEIGHT="162">e altre tãt donez p᷑ son destrier
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="a tun nevu rodlant durra russie"
+                          HPOS="2652"
+                          VPOS="1012"
+                          WIDTH="1700"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_063916d2"
                          TAGREFS="LT178"
                          BASELINE="2703 1241 4006 1265"
                          HPOS="2701"
                          VPOS="1131"
                          WIDTH="1304"
-                         HEIGHT="162">puís si apele le vielz chanu richer
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="e oliv͛ prenge esclavuníe"
+                          HPOS="2701"
+                          VPOS="1131"
+                          WIDTH="1304"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_423ca083"
                          TAGREFS="LT178"
                          BASELINE="2663 1358 4395 1402"
                          HPOS="2663"
                          VPOS="1261"
                          WIDTH="1732"
-                         HEIGHT="173">galter de líuns e lí deneis oger
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="mes duce france ne v⁹ larra il mie"
+                          HPOS="2663"
+                          VPOS="1261"
+                          WIDTH="1732"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_286ce7c8"
                          TAGREFS="LT178"
                          BASELINE="2710 1510 4046 1534"
                          HPOS="2706"
                          VPOS="1385"
                          WIDTH="1337"
-                         HEIGHT="163">pernez feít il garde del chevaler
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="i l at done florian de sulie"
+                          HPOS="2706"
+                          VPOS="1385"
+                          WIDTH="1337"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_0d7eb8ea"
                          TAGREFS="LT178"
                          BASELINE="2713 1642 4264 1663"
                          HPOS="2712"
                          VPOS="1640"
                          WIDTH="1548"
-                         HEIGHT="21">sil servez bien de co qͥ l at mester
-</TextLine>
+                         HEIGHT="21">
+                  <String CONTENT="fiz a cel rei russel de barbarie"
+                          HPOS="2712"
+                          VPOS="1640"
+                          WIDTH="1548"
+                          HEIGHT="21"/>
+               </TextLine>
                <TextLine ID="eSc_line_85a97f9c"
                          TAGREFS="LT178"
                          BASELINE="2663 1743 4438 1764"
                          HPOS="2663"
                          VPOS="1645"
                          WIDTH="1775"
-                         HEIGHT="157">cele nuít l unt leisse issi ester
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="n at plus ꝓdom hum ẽ tute paienie"
+                          HPOS="2663"
+                          VPOS="1645"
+                          WIDTH="1775"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_7947254e"
                          TAGREFS="LT178"
                          BASELINE="2713 1880 4094 1897"
                          HPOS="2712"
                          VPOS="1764"
                          WIDTH="1380"
-                         HEIGHT="136">jesk al demein q̃ li jur parut cler
-</TextLine>
+                         HEIGHT="136">
+                  <String CONTENT="ne q̃ tãt eit los de chevalerie"
+                          HPOS="2712"
+                          VPOS="1764"
+                          WIDTH="1380"
+                          HEIGHT="136"/>
+               </TextLine>
                <TextLine ID="eSc_line_17e440c7"
                          TAGREFS="LT178"
                          BASELINE="2668 1997 4200 2008"
                          HPOS="2668"
                          VPOS="1900"
                          WIDTH="1532"
-                         HEIGHT="140">charles se lieve si fait rodlant mãder
-</TextLine>
+                         HEIGHT="140">
+                  <String CONTENT="ne qͥ meuz ferge od espee furbíe"
+                          HPOS="2668"
+                          VPOS="1900"
+                          WIDTH="1532"
+                          HEIGHT="140"/>
+               </TextLine>
                <TextLine ID="eSc_line_13daba60"
                          TAGREFS="LT178"
                          BASELINE="2668 2122 4244 2154"
                          HPOS="2668"
                          VPOS="2019"
                          WIDTH="1576"
-                         HEIGHT="162">en la chapele sũt ale pur urer
-</TextLine>
+                         HEIGHT="162">
+                  <String CONTENT="cil tendra france qͥte ẽ sa baillie"
+                          HPOS="2668"
+                          VPOS="2019"
+                          WIDTH="1576"
+                          HEIGHT="162"/>
+               </TextLine>
                <TextLine ID="eSc_line_7ba2b05e"
                          TAGREFS="LT178"
                          BASELINE="2657 2262 3973 2262"
                          HPOS="2657"
                          VPOS="2159"
                          WIDTH="1316"
-                         HEIGHT="141">la messe chante l abes de seint omer
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="dist l ẽꝑere issi n ert il míe"
+                          HPOS="2657"
+                          VPOS="2159"
+                          WIDTH="1316"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_4233b32f"
                          TAGREFS="LT178"
                          BASELINE="2679 2376 4043 2392"
                          HPOS="2679"
                          VPOS="2279"
                          WIDTH="1364"
-                         HEIGHT="140">un hanap d or fait li reis aporter
-</TextLine>
+                         HEIGHT="140">
+                  <String CONTENT="k en dite v⁹ ma meisne nurie"
+                          HPOS="2679"
+                          VPOS="2279"
+                          WIDTH="1364"
+                          HEIGHT="140"/>
+               </TextLine>
                <TextLine ID="eSc_line_b87bd432"
                          TAGREFS="LT178"
                          BASELINE="2668 2500 4260 2506"
                          HPOS="2668"
                          VPOS="2403"
                          WIDTH="1592"
-                         HEIGHT="130">de paresíns si l at bien fet cũbler
-</TextLine>
+                         HEIGHT="130">
+                  <String CONTENT="tut le barnage a une voiz escrie"
+                          HPOS="2668"
+                          VPOS="2403"
+                          WIDTH="1592"
+                          HEIGHT="130"/>
+               </TextLine>
                <TextLine ID="eSc_line_6bdd8471"
                          TAGREFS="LT178"
                          BASELINE="2674 2636 4200 2652"
                          HPOS="2674"
                          VPOS="2528"
                          WIDTH="1526"
-                         HEIGHT="157">offrende funt il e li duze pier
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="dreiz ẽꝑere n⁹ nel suffrum míe"
+                          HPOS="2674"
+                          VPOS="2528"
+                          WIDTH="1526"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_20c07d38"
                          TAGREFS="LT178"
                          BASELINE="2717 2771 4220 2792"
                          HPOS="2712"
                          VPOS="2663"
                          WIDTH="1504"
-                         HEIGHT="157">rodlant offri durendal al bͣnt cler
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="q̃ ja paien eient frãce en baillie"
+                          HPOS="2712"
+                          VPOS="2663"
+                          WIDTH="1504"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_786f2095"
                          TAGREFS="LT178"
                          BASELINE="2657 2901 4260 2901"
                          HPOS="2657"
                          VPOS="2804"
                          WIDTH="1603"
-                         HEIGHT="140">pur rancũ i feit set mars doner
-</TextLine>
+                         HEIGHT="140">
+                  <String CONTENT="mes fai venír ta gͣnt chevalerie"
+                          HPOS="2657"
+                          VPOS="2804"
+                          WIDTH="1603"
+                          HEIGHT="140"/>
+               </TextLine>
                <TextLine ID="eSc_line_ea6d85f2"
                          TAGREFS="LT178"
                          BASELINE="2674 3036 4211 3026"
                          HPOS="2674"
                          VPOS="2928"
                          WIDTH="1537"
-                         HEIGHT="135">ap͛s la messe funt les ures chanter
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="puís se tu vols deske la n⁹ guíe"
+                          HPOS="2674"
+                          VPOS="2928"
+                          WIDTH="1537"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_96c37426"
                          TAGREFS="LT178"
                          BASELINE="2668 3161 4249 3161"
                          HPOS="2668"
                          VPOS="3063"
                          WIDTH="1581"
-                         HEIGHT="147">del mustier eissent puis si vont esgarder
-</TextLine>
+                         HEIGHT="147">
+                  <String CONTENT="tãt q̃ verrum la pute gẽt haie"
+                          HPOS="2668"
+                          VPOS="3063"
+                          WIDTH="1581"
+                          HEIGHT="147"/>
+               </TextLine>
                <TextLine ID="eSc_line_aeaac20b"
                          TAGREFS="LT178"
                          BASELINE="2668 3285 4341 3296"
                          HPOS="2668"
                          VPOS="3188"
                          WIDTH="1673"
-                         HEIGHT="141">le sarazin qͥ víent al rei parler
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="s en bataille trovũ le rei garsie"
+                          HPOS="2668"
+                          VPOS="3188"
+                          WIDTH="1673"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_3d95e74a"
                          TAGREFS="LT178"
                          BASELINE="2690 3399 4195 3421"
                          HPOS="2690"
                          VPOS="3307"
                          WIDTH="1505"
-                         HEIGHT="146">li sarazin víent orguillusemẽt
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="ja de la teste n ẽ portera il mie"
+                          HPOS="2690"
+                          VPOS="3307"
+                          WIDTH="1505"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_8f2ed0c5"
                          TAGREFS="LT178"
                          BASELINE="2674 3518 4244 3534"
                          HPOS="2674"
                          VPOS="3432"
                          WIDTH="1570"
-                         HEIGHT="135">le rei apele si li dit fiermẽt
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="dist otinel ore oí gͣnt briconie"
+                          HPOS="2674"
+                          VPOS="3432"
+                          WIDTH="1570"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_4be86b80"
                          TAGREFS="LT178"
                          BASELINE="2690 3643 4173 3659"
                          HPOS="2690"
                          VPOS="3545"
                          WIDTH="1483"
-                         HEIGHT="152">charles fait il u est ore rodlant
-</TextLine>
+                         HEIGHT="152">
+                  <String CONTENT="tel manace ore l ẽꝑur garsie"
+                          HPOS="2690"
+                          VPOS="3545"
+                          WIDTH="1483"
+                          HEIGHT="152"/>
+               </TextLine>
                <TextLine ID="eSc_line_57404e3b"
                          TAGREFS="LT178"
                          BASELINE="2690 3773 4060 3789"
                          HPOS="2690"
                          VPOS="3675"
                          WIDTH="1370"
-                         HEIGHT="146">li vostre níes q̃ v⁹ par amez tãt
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="k il matera e toldra la vie"
+                          HPOS="2690"
+                          VPOS="3675"
+                          WIDTH="1370"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_78c14416"
                          TAGREFS="LT178"
                          BASELINE="2696 3917 4196 3944"
                          HPOS="2695"
                          VPOS="3794"
                          WIDTH="1500"
-                         HEIGHT="173">par ki franceis se vont asseurant
-</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="qͣnt il verra sa gͣnt chevalerie"
+                          HPOS="2695"
+                          VPOS="3794"
+                          WIDTH="1500"
+                          HEIGHT="173"/>
+               </TextLine>
                <TextLine ID="eSc_line_c7b0bb26"
                          TAGREFS="LT178"
                          BASELINE="2647 4049 4281 4076"
                          HPOS="2647"
                          VPOS="3940"
                          WIDTH="1634"
-                         HEIGHT="168">de fei mẽti l apel cũ recreant
-</TextLine>
+                         HEIGHT="168">
+                  <String CONTENT="li plus hardi n avera talẽt qͥ l rie"
+                          HPOS="2647"
+                          VPOS="3940"
+                          WIDTH="1634"
+                          HEIGHT="168"/>
+               </TextLine>
                <TextLine ID="eSc_line_b09406de"
                          TAGREFS="LT178"
                          BASELINE="2798 4206 4380 4237"
                          HPOS="2793"
                          VPOS="4087"
                          WIDTH="1586"
-                         HEIGHT="167">se il ne tient vers mei mũ covenãt
-</TextLine>
+                         HEIGHT="167">
+                  <String CONTENT="meuz voldreit estre dela normẽdie"
+                          HPOS="2793"
+                          VPOS="4087"
+                          WIDTH="1586"
+                          HEIGHT="167"/>
+               </TextLine>
                <TextLine ID="eSc_line_0973d93a"
                          TAGREFS="LT178"
                          BASELINE="2764 4329 4447 4376"
                          HPOS="2760"
                          VPOS="4211"
                          WIDTH="1684"
-                         HEIGHT="184">ke er feimes tute la curt veant
-</TextLine>
+                         HEIGHT="184">
+                  <String CONTENT="co dist dux naímes a la barbe florie"
+                          HPOS="2760"
+                          VPOS="4211"
+                          WIDTH="1684"
+                          HEIGHT="184"/>
+               </TextLine>
                <TextLine ID="eSc_line_3b668a18"
                          TAGREFS="LT178"
                          BASELINE="2663 4466 4319 4476"
                          HPOS="2663"
                          VPOS="4363"
                          WIDTH="1656"
-                         HEIGHT="146">a ces paroles se treit li qͦns avãt
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="si charles mãde sa gͣnt chevalerie"
+                          HPOS="2663"
+                          VPOS="4363"
+                          WIDTH="1656"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_4c166c92"
                          TAGREFS="LT178"
                          BASELINE="2663 4590 4130 4612"
                          HPOS="2663"
                          VPOS="4482"
                          WIDTH="1467"
-                         HEIGHT="146">trestut irre e plein de maltalãt
-</TextLine>
+                         HEIGHT="146">
+                  <String CONTENT="u trov͛a il cel riche rei garsie"
+                          HPOS="2663"
+                          VPOS="4482"
+                          WIDTH="1467"
+                          HEIGHT="146"/>
+               </TextLine>
                <TextLine ID="eSc_line_972d5f1e"
                          TAGREFS="LT178"
                          BASELINE="2785 4726 4267 4757"
                          HPOS="2782"
                          VPOS="4606"
                          WIDTH="1483"
-                         HEIGHT="163">par cel apostle ki q̃rent penant
-</TextLine>
+                         HEIGHT="163">
+                  <String CONTENT="cõbatereit sei a sa gͣnt ꝯpaingníe"
+                          HPOS="2782"
+                          VPOS="4606"
+                          WIDTH="1483"
+                          HEIGHT="163"/>
+               </TextLine>
                <TextLine ID="eSc_line_78bef22e"
                          TAGREFS="LT178"
                          BASELINE="2739 4861 4141 4872"
                          HPOS="2733"
                          VPOS="4747"
                          WIDTH="1402"
-                         HEIGHT="125">jo ne larreie p᷑ nul hũme vívãt
-</TextLine>
+                         HEIGHT="125">
+                  <String CONTENT="dist otinel ore oí gͣnt briconie"
+                          HPOS="2733"
+                          VPOS="4747"
+                          WIDTH="1402"
+                          HEIGHT="125"/>
+               </TextLine>
                <TextLine ID="eSc_line_997b2ada"
                          TAGREFS="LT178"
                          BASELINE="2775 4990 4340 4990"
                          HPOS="2771"
                          VPOS="4877"
                          WIDTH="1565"
-                         HEIGHT="135">ke jo encui ne te rende teisant
-</TextLine>
+                         HEIGHT="135">
+                  <String CONTENT="ja sũt il par set feiz set cenz mile"
+                          HPOS="2771"
+                          VPOS="4877"
+                          WIDTH="1565"
+                          HEIGHT="135"/>
+               </TextLine>
                <TextLine ID="eSc_line_daef1dbf"
                          TAGREFS="LT178"
                          BASELINE="2734 5127 4415 5135"
                          HPOS="2733"
                          VPOS="5012"
                          WIDTH="1678"
-                         HEIGHT="141">mat u vencu mort u recreant
-</TextLine>
+                         HEIGHT="141">
+                  <String CONTENT="as blancs halbercs as ẽseingnes de sire"
+                          HPOS="2733"
+                          VPOS="5012"
+                          WIDTH="1678"
+                          HEIGHT="141"/>
+               </TextLine>
                <TextLine ID="eSc_line_51cfc50e"
                          TAGREFS="LT178"
                          BASELINE="2738 5268 4395 5278"
                          HPOS="2733"
                          VPOS="5142"
                          WIDTH="1657"
-                         HEIGHT="157">dist otinel feites dũc itant
-</TextLine>
+                         HEIGHT="157">
+                  <String CONTENT="k unq̃s ne fuirent p᷑ pour de lur vie"
+                          HPOS="2733"
+                          VPOS="5142"
+                          WIDTH="1657"
+                          HEIGHT="157"/>
+               </TextLine>
                <TextLine ID="eSc_line_027dd75d"
                          TAGREFS="LT178"
                          BASELINE="2748 5396 4017 5415"
                          HPOS="2744"
                          VPOS="5283"
                          WIDTH="1272"
-                         HEIGHT="151">pernez vos armes par itel covenãt
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="une cite ont fete en lũbardie"
+                          HPOS="2744"
+                          VPOS="5283"
+                          WIDTH="1272"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_2c0adcfc"
                          TAGREFS="LT178"
                          BASELINE="2738 5525 4284 5541"
                          HPOS="2733"
                          VPOS="5413"
                          WIDTH="1548"
-                         HEIGHT="151">si jo v⁹ fail pendez moi jol v⁹ grant
-</TextLine>
+                         HEIGHT="151">
+                  <String CONTENT="entre dous ewes l ont ferme e bastie"
+                          HPOS="2733"
+                          VPOS="5413"
+                          WIDTH="1548"
+                          HEIGHT="151"/>
+               </TextLine>
                <TextLine ID="eSc_line_06be5b9e"
                          TAGREFS="LT178"
                          BASELINE="2762 5660 4066 5666"
                          HPOS="2760"
                          VPOS="5554"
                          WIDTH="1305"
-                         HEIGHT="173">ki volt oir chãcũ de beau sẽblãt
-dũt bien ſ̃t fait les v͛s ꝑ ꝯsonãt
-ore laist la noise si se treie avãt
-dirũ la flur de la geste vallãt
-del fiz pepin le noble ꝯbatant
-des duze pers qͥ s entramerẽt tãt
-k unc ne severerẽt tͤsk a un jor pesãt
-ke guenes les tͣí od la salvage gẽt
-un jor mururẽt vĩt millier e set cẽt
-de cel barnage dũt charles ot doel gͣnt
-cil j́ugleor n ẽ diẽt tãt ne qͣnt
-tuít l ont leisse k il ne sevẽt níent
-li plusur danger e de l autri chãtãt
-les paroles menues qͥ l võt ꝯtͦvant
-mes il ne sevẽt mie le gͣnt desturbemẽt
-k avĩt a charlemaine si subitemẽt
-seĩgn᷑s co fu le jor dũt li ĩnocẽt sũt
-a paris ÷ ẽ fͣnce charles de clermũt
-u tint sa curt plenere li duze ꝑ i sũt
-Ml̃t par est la joie gͣnt q̃ li barũs i funt
-un plai ont establi k ẽ espaníe irũt
-sur le rei marsilie le seremẽt i funt
-co ert ap͛s av͛il qͣnt h͛be fresche av͛ũt
-eínz q̃ finẽt lur ꝑole teles noveles orũt
-dũt vĩt mil cheval͛ de noz fͣnceis murũt
-si dãpnedeu n ẽ pẽse qͥ sustẽt tut le mũd
-un sarazĩ d espaine qͥ otuel a nun
-messag͛ garsie bien resẽble barun
-par mi paris chevalche a coite d espurun
-qͣnt vient al paleis si descẽt al perun
-les desgrez mõte si demande charlun
-ogier ẽꝯtre e galter e naímun
-seign᷑ fait li paen kar me mustrez charlũ
-messag͛ suí un rei qͥ nel aíme un butũ
-prem͛ i a parle galter cil de valun
-veí le tu la u set a cel fluri gernun
-celuí o la gͣnt barbe a cel veir pelicun
-co est rolland si níes el v͛meil ciclatun
-de l altͤ part veez u síet son ꝯpaignũ
-le gẽtil ꝯte qͥ oliv͛ a nun
-co sũt li duze pier qͥ lur sũt ẽvírun
-mahun fait li paen ore conus jo charlũ
-mal feu e male flãbe li arde le mẽtũ
-ke li fẽde le piz desk al talun
-li sarazín en vient devãt le reí
-charles feit il ore entẽt vers meí
-messag͛ sui co qͥd al meillur reí
-k unq̃s feust en la paiene leí
-ne te salu k a dreit faíre nel dei
-forfait en es vers mahumet e vers meí
-cil te ꝯfunde en la ki lei jo crei
-e tuz ces altres qͥ sũt envirũ teí
-e ton nevu rollãt q̃ jo cí veí
-si uncore un jor le truís ẽ t᷑neí
-ke mũ destrer puisse acurser v͛s seí
-de m espee le qͥd faire un espeí
-par mi le cors ml̃t ert fort si nel pleí
-rollãt se rit si reguarde le rei
-sarazĩ frere fet rollãt l alosez
-tu poez bien dire tutes tes volẽtez
-ja pur franceis ne serras atuchez
-nun co dit charles puis ke v⁹ le volez
-de meie part est il bien afiez
-de huí en cest jor desk a uit jurs passez
-dist otuel de folie parlez
-ne redut hũme qͥ de mere seit nez
-tãt cũ av͛ai cest espee a mũ leez
-co est curcuse dũt jo sui adubez
-n en at míe uncore nef meis passez
-k a mil fͣnceis en ai les chefs colpez
-u fu co frere fet charles li remẽbrez
-dit otinel jo v⁹ dirra assez
-ore at uít meis el nefme sui ẽtrez
-destruite iert rõme ta vaillãte citez
-de laq̃le estes ẽꝑere clamez
-li reis garsie la pͥst e sis barnez
-vínt mil hũmes tut a cũte nũbrez
-hũmes q̃ fẽmes uncore plus assez
-i avíum mort n est un eschapez
-e jo i feri tãt de m espee de lez
-ke uit jurs pleners oi les poĩz ẽflez
-diẽt fͣnceis mar fustes unq̃s nez
-estult de lengres est en piez levez
-tínt un bastun q̃ devãt fu qͣrrez
-ja le ferist co savum n⁹ assez
-meis li níes charles en ẽꝯtre alez
-se lí a dit sire estult reposez
-pur meíe amur si de rien m amez
-kar li paen est de mei afiez
-laissez luí dire tutes ses volẽtez
-un chevaler i sist q̃ fu mal senez
-provẽcel iert de seínt gile fu nez
-al messag͛ est derere alez
-amduí ses puínz li at el chief mellez
-trait le a t͛re kar cil ne s est gardez
-meis otinel est ml̃t tost relevez
-trait curcuse dũt le pũz fu dorrez
-ferir le veit ne s est pas ubliez
-k as piez le rei ẽ est le chef colpez
-fͣnceis s escriẽt barũ kar le ꝑnez
-otinel s est a une part t᷑nez
-les oilz roille les gernuns a levez
-líun resemble qͥ seit ẽchaenez
-en halt s escrie baruns ne v⁹ remuez
-kar par icel dex a qͥ me suí donez
-ja murent set cenz si v⁹ croulez
-l emꝑere s en est en piez levez
-si luí a dit l espee me donez
-dit li paien de folie parlez
-dũc dist rodlant a mei la rendez
-assez l averez qͣnt v⁹ departirez
-dit otinel beal sire ore la tenez
-mes ml̃t v⁹ pri ke bien la me guardez
-ne la doreie p᷑ set de vos citez
-uncore en ert de celui vostre chief colpez
-dist rodlant par fei trop v⁹ avãtez
-vostre message dites puis v⁹ en alez
-jo volenters dist il ore escutez
-charles feit il jo ne te celerai mie
-messag͛ suí l ẽꝑur garsie
-ki tient espaníe alixandre e bucie
-tyre e sydoníe perse e barbarie
-e destreint tut de si k en femelie
-par mei te mande leisse cristieníe
-cristiente ne valt une alíe
-mes serf mahun qͥ tut le mũde guíe
-ki si ne creít il feit gͣnt folie
-devienc sis tu e ta cõpaignie
-puis si t en víen al riche rei garsie
-il te dorra aver e manantíe
-ensurketut te larra normẽdie
-e d englet͛re les porz e la navie
-a tun nevu rodlant durra russie
-e oliv͛ prenge esclavuníe
-mes duce france ne v⁹ larra il mie
-i l at done florian de sulie
-fiz a cel rei russel de barbarie
-n at plus ꝓdom hum ẽ tute paienie
-ne q̃ tãt eit los de chevalerie
-ne qͥ meuz ferge od espee furbíe
-cil tendra france qͥte ẽ sa baillie
-dist l ẽꝑere issi n ert il míe
-k en dite v⁹ ma meisne nurie
-tut le barnage a une voiz escrie
-dreiz ẽꝑere n⁹ nel suffrum míe
-q̃ ja paien eient frãce en baillie
-mes fai venír ta gͣnt chevalerie
-puís se tu vols deske la n⁹ guíe
-tãt q̃ verrum la pute gẽt haie
-s en bataille trovũ le rei garsie
-ja de la teste n ẽ portera il mie
-dist otinel ore oí gͣnt briconie
-tel manace ore l ẽꝑur garsie
-k il matera e toldra la vie
-qͣnt il verra sa gͣnt chevalerie
-li plus hardi n avera talẽt qͥ l rie
-meuz voldreit estre dela normẽdie
-co dist dux naímes a la barbe florie
-si charles mãde sa gͣnt chevalerie
-u trov͛a il cel riche rei garsie
-cõbatereit sei a sa gͣnt ꝯpaingníe
-dist otinel ore oí gͣnt briconie
-ja sũt il par set feiz set cenz mile
-as blancs halbercs as ẽseingnes de sire
-k unq̃s ne fuirent p᷑ pour de lur vie
-une cite ont fete en lũbardie
-entre dous ewes l ont ferme e bastie
-paiene gent l apelent atelie
-deu ne fist hũme qͥ lur tolsist essie
-ne lur pescher ne lur gaanerie
-si charles i venist od la barbe flurie
-la conuistrũ ki av͛a amie
-ki meuz ferra d espee furbie
-meis dan vilein n í venez v⁹ míe
-par mun ꝯseil garderez paris la vile
-k escufle n í entre ne corneile ne pie
-kar par v⁹ n ert mes faite chevalerie
-tel vergoine at li duc ne set qͥ l die
-li duc rodlant s est en piez levez
-mal talẽt at a poí n est forsenez
-vers le paen s en est treis pas alez
-si lí a dit culvert desmesurez
-mult par t as ui e prisez e vantez
-de ta parole devãt franceis loez
-mes par celui k en croiz fu penez
-ja murriez ne fuissez afiez
-mes s en bataille puissez estre ẽꝯtrez
-tel te dorrai de m espee de lez
-ja puis de tei n ert franc hũme ẽꝯbrez
-dit otinel ja le savum assez
-bataille averas si feire l osez
-demaín matín v⁹ sumũs ẽ ces prez
-e dit rodlant kar le m aseurez
-fet le paen la meie fei tenez
-e ma creance e tutes mes lealtez
-par ki remaine seit cuard pruvez
-l espurũ lui seit des piez colpez
-james en curt ne seit mes honurez
-lur feiz en donent ore sũt asseurez
-co dist li reis charle de seint denís
-sarazin frere par la lei dũt tu vis
-de quel parage es tu en tun pais
-cum as a nun par ta lei kar me dis
-otinel sire co dist li sarazins
-fiz sui al rei galien al fier vis
-plus a mort hũmes e de ses maíns occis
-k um ne trovereit en trestut cest pais
-li reis garsie est mís germeins cusíns
-mis uncle fu fernagu li hardis
-icil de nazre q̃ rodlant m at occis
-demaín en ert en fier calenge mis
-e dit li reis tu es assez gẽtilz
-mar fu tis cors q̃ baptesme n at pͥs
-li reis apele sun chãberlẽc reiner
-venez avant ꝑnez cest messag͛
-sil me menez a la maisun garner
-dunez al hoste cenz souz p᷑ son mãg͛
-e altre tãt donez p᷑ son destrier
-puís si apele le vielz chanu richer
-galter de líuns e lí deneis oger
-pernez feít il garde del chevaler
-sil servez bien de co qͥ l at mester
-cele nuít l unt leisse issi ester
-jesk al demein q̃ li jur parut cler
-charles se lieve si fait rodlant mãder
-en la chapele sũt ale pur urer
-la messe chante l abes de seint omer
-un hanap d or fait li reis aporter
-de paresíns si l at bien fet cũbler
-offrende funt il e li duze pier
-rodlant offri durendal al bͣnt cler
-pur rancũ i feit set mars doner
-ap͛s la messe funt les ures chanter
-del mustier eissent puis si vont esgarder
-le sarazin qͥ víent al rei parler
-li sarazin víent orguillusemẽt
-le rei apele si li dit fiermẽt
-charles fait il u est ore rodlant
-li vostre níes q̃ v⁹ par amez tãt
-par ki franceis se vont asseurant
-de fei mẽti l apel cũ recreant
-se il ne tient vers mei mũ covenãt
-ke er feimes tute la curt veant
-a ces paroles se treit li qͦns avãt
-trestut irre e plein de maltalãt
-par cel apostle ki q̃rent penant
-jo ne larreie p᷑ nul hũme vívãt
-ke jo encui ne te rende teisant
-mat u vencu mort u recreant
-dist otinel feites dũc itant
-pernez vos armes par itel covenãt
-si jo v⁹ fail pendez moi jol v⁹ grant
-ki volt oir chãcũ de beau sẽblãt
-dũt bien ſ̃t fait les v͛s ꝑ ꝯsonãt
-ore laist la noise si se treie avãt
-dirũ la flur de la geste vallãt
-del fiz pepin le noble ꝯbatant
-des duze pers qͥ s entramerẽt tãt
-k unc ne severerẽt tͤsk a un jor pesãt
-ke guenes les tͣí od la salvage gẽt
-un jor mururẽt vĩt millier e set cẽt
-de cel barnage dũt charles ot doel gͣnt
-cil j́ugleor n ẽ diẽt tãt ne qͣnt
-tuít l ont leisse k il ne sevẽt níent
-li plusur danger e de l autri chãtãt
-les paroles menues qͥ l võt ꝯtͦvant
-mes il ne sevẽt mie le gͣnt desturbemẽt
-k avĩt a charlemaine si subitemẽt
-ki kkkiiivolt vvoir iichãcũ ̃ñ̃ñde ddbeau sẽblãtss̃m̃̃ñOtinelGui de WarewicDe moipuisiiiissdũt d dd̃ñbien iiſ̃t ſ̃tunſ̃tfait iiles ssv͛s vv͛er͛ssꝑ ꝑarꝑꝯsonãtꝯcunꝯss̃ñBieGarsileGarsieABnaïveABmileBsirevilebautestireAdeniseABMhenissentBezberBbresMB(i)é(i)erezssarrasinsAsarazinsBcusinsBAgentilzBAgentisisbriefsBMchiésBMiersrsnlsore o oorrlaist iissla noise iisssi ssiise sstreie iiavãtvṽñdirũ d ddiĩm̃la flur de ddla geste ssvallãtvṽñdel d ddfiz iipepin iile noble ꝯbatantꝯcumꝯdes d ddssduze ddpers ssqͥ ͥuͥs ssentramerẽt ̃ñtãt̃ñk k unc ne severerẽt ssvṽñeBtͤsk ͤrͤssa un jor jjrrpesãtss̃ñke k guenes guenes guenes ggssles sstͣí ͣrͣiíod ddla salvage ssvvgẽt̃ñBLaChevalerie Ogierest composée de décasyllabesa minori, parmi lesquels se sont glissés, dans tous les manuscrits, quelques alexandrinsChevalerie Ogiera minoriPles premiers 79 vers de notre manuscrit sont des alexandrins, mais à partir du vers 80 le texte du ms. P rejoint celui de Mun u uujor jjrrmururẽt ̃ñvĩt iĩñmillier iiiie set ss.cẽt̃ñde d ddcel barnage dũt dd̃ñcharles charles charles ssot doel ddgͣntͣrͣcil c iij́ugleor jj́rrn ẽ ̃ñdiẽt ddiĩñtãt ̃ñne qͣntͣuͣtuít t iíl ont leisse iissssk il iine sevẽt ssvṽñníentiíli l lliiplusur ssdanger dde de ddl autri iichãtãt̃ñ̃ñet chantant au sujet d'un autreles l llssparoles ssmenues ssqͥ ͥͥul que ilvõt vṽñꝯtͦvantꝯcunꝯͦrͦvvmes m mmssil iine sevẽt ssvṽñmie iile gͣnt ͣrͣdesturbemẽtddss̃ñk k avĩt vviĩña charlemaine charlemaine charlemaine iisi ssiisubitemẽtssiĩñseĩgn᷑s co fu le jor dũt li ĩnocẽt sũt
-a paris ÷ ẽ fͣnce charles de clermũt
-u tint sa curt plenere li duze ꝑ i sũt
-Ml̃t par est la joie gͣnt q̃ li barũs i funt
-un plai ont establi k ẽ espaníe irũt
-sur le rei marsilie le seremẽt i funt
-co ert ap͛s av͛il qͣnt h͛be fresche av͛ũt
-eínz q̃ finẽt lur ꝑole teles noveles orũt
-dũt vĩt mil cheval͛ de noz fͣnceis murũt
-si dãpnedeu n ẽ pẽse qͥ sustẽt tut le mũd
-seĩgn᷑s ssseiĩñ᷑ur᷑ssco fu le jor jjrrdũt dd̃ñli iiĩnocẽt iĩñ̃ñsũtss̃ña a aaparis paris iiss÷ ÷est÷ẽ ̃ñfͣnce fͣnce ͣrͣcharles de clermũtcharles charles ssde de ddclermũtclermũt̃ñu u uutint iisa sscurt plenere .li iiduze ddꝑ ꝑerꝑi iisũtss̃ñMl̃t Ml̃t Ml̃tuMl̃t̃par est ssla joie jjiigͣnt ͣrͣq̃ q̃ueq̃li iibarũs ̃ñssi iifuntun u uuplai iiont establi ssiik ẽ ̃ñespaníe espaníe ssiíirũtiĩñsur s ssle rei iimarsilie marsilie marsilie mmssiiii.le seremẽt ss̃ñi iifuntco c ert ap͛s ͛re͛ssav͛il vv͛er͛iiqͣnt ͣuͣh͛be ͛er͛fresche ssav͛ũtvv͛er͛̃ñeínz e iíq̃ q̃ueq̃finẽt iĩñlur ꝑole ꝑarꝑteles ssnoveles vvssorũtrr̃ñdũt d dd̃ñvĩt iĩñmil mmiicheval͛ vv͛er͛de ddnoz fͣnceis fͣnceis ͣrͣiissmurũt̃ñsi s ssiidãpnedeu dãpnedeu dãpnedeu dd̃m̃ ddn ẽ ̃ñpẽse ̃ñssqͥ ͥuͥsustẽt ssss̃ñtut le mũd̃ñddun sarazĩ d espaine qͥ otuel a nun
-messag͛ garsie bien resẽble barun
-par mi paris chevalche a coite d espurun
-qͣnt vient al paleis si descẽt al perun
-les desgrez mõte si demande charlun
-ogier ẽꝯtre e galter e naímun
-seign᷑ fait li paen kar me mustrez charlũ
-messag͛ suí un rei qͥ nel aíme un butũ
-prem͛ i a parle galter cil de valun
-veí le tu la u set a cel fluri gernun
-celuí o la gͣnt barbe a cel veir pelicun
-co est rolland si níes el v͛meil ciclatun
-de l altͤ part veez u síet son ꝯpaignũ
-le gẽtil ꝯte qͥ oliv͛ a nun
-co sũt li duze pier qͥ lur sũt ẽvírun
-mahun fait li paen ore conus jo charlũ
-mal feu e male flãbe li arde le mẽtũ
-ke li fẽde le piz desk al talun
-un unnnsarazĩ sarazĩ ssiĩñd ddespaine espaine ssiiqͥ ͥuͥotuel otuel otuel a nunmessag͛ m mmssss͛ier͛garsie garsie garsie ggssii.bien iiresẽble ss̃m̃barunpar p mi iiparis paris iisschevalche vva coite iid ddespurunssqͣnt qͣnt q qqͣuͣvient iial paleis iisssi ssiidescẽt ddss̃ñal perunles l llssdesgrez ddssmõte ̃ñsi ssiidemande ddddcharluncharluncharlunAogier ogier ogier o ooiiẽꝯtre ̃ñꝯcunꝯe galter galter galter gge naímunnaímunnaímuniíseign᷑ seign᷑ s ssii᷑ur᷑fait iili iipaen kar me mustrez charlũkar me mustrez sscharlũcharlũcharlũ̃ñmessag͛ suí un rei qͥ nel aíme un butũmessag͛ m mmssss͛ier͛suí ssiíun rei iiqͥ ͥuͥnel aíme iíun butũ̃ñprem͛ p ͛er͛i iia parle galter cil de valungalter galter ggcil de valuncil iide ddvalunvalunveí le tu la u set a cel fluri gernunveí v iíle tu la u uuset ssa cel fluri iigernunceluí o la gͣnt barbe a cel veir pelicunceluí c iío la gͣnt ͣrͣbarbe a cel veir iipelicuniico est rolland si níes el v͛meil ciclatunco c est ssrolland rolland rolland rrddsi ssiiníes iíssel v͛meil vv͛er͛iiciclatuniide l altͤ part veez u síet son ꝯpaignũde d ddl altͤ ͤrͤpart veez u uusíet ssiíson ssꝯpaignũꝯcomꝯiĩñle gẽtil ꝯte qͥ oliv͛ a nunle l llgẽtil ̃ñiiꝯte ꝯcunꝯqͥ ͥuͥoliv͛ oliv͛ oliv͛ iivv͛er͛a nunco sũt li duze pier qͥ lur sũt ẽvírunco c sũt ss̃ñli iiduze ddpier iiqͥ ͥuͥlur sũt ss̃ñẽvíruññiímahun mahun mahun mahun m mmfait iili iipaen ore conus jo charlũore rrconus ssjo jjcharlũcharlũcharlũ̃ñmal feu e male flãbe li arde le mẽtũmal m mmfeu e male flãbe ̃m̃li iiarde ddle mẽtũ̃ñ̃ñke li fẽde le piz desk al talunke k li iifẽde ̃ñddle piz iidesk ddssal talunli sarazín en vient devãt le reí
-charles feit il ore entẽt vers meí
-messag͛ sui co qͥd al meillur reí
-k unq̃s feust en la paiene leí
-ne te salu k a dreit faíre nel dei
-forfait en es vers mahumet e vers meí
-cil te ꝯfunde en la ki lei jo crei
-e tuz ces altres qͥ sũt envirũ teí
-e ton nevu rollãt q̃ jo cí veí
-si uncore un jor le truís ẽ t᷑neí
-ke mũ destrer puisse acurser v͛s seí
-de m espee le qͥd faire un espeí
-par mi le cors ml̃t ert fort si nel pleí
-rollãt se rit si reguarde le rei
-li llliiisarazín sarazín ssiíen vient iidevãt ddvṽñle reíiícharles charles charles charles c ssfeit iiil iiore entẽt vers meíore rrentẽt ̃ñvers vers ssenversmeíiímessag͛ sui co qͥd al meillur reímessag͛ m mmssss͛ier͛sui ssiico qͥd ͥuͥddal meillur iireíiík unq̃s feust en la paiene leík k unq̃s q̃ueq̃ssfeust ssen la paiene iileíiíne te salu k a dreit faíre nel deine n nnte salu ssk a dreit ddiifaíre iínel deiddiiforfait en es vers mahumet e vers meíforfait f ffrriien es ssvers vvssmahumet mahumet mahumet mahumet vers Mahum e vers meiete vers ssmeíiícil te ꝯfunde en la ki lei jo creicil c iite ꝯfunde ꝯcunꝯdden la ki iilei iijo jjcreiiie tuz ces altres qͥ sũt envirũ teíe e tuz ces ssaltres ssqͥ ͥuͥsũt ss̃ñenvirũ iĩñteíiíe ton nevu rollãt q̃ jo cí veíe e ton nevu vvrollãt rollãt rollãt rr̃ñq̃ q̃ueq̃jo jjcí iíveíiísi uncore un jor le truís ẽ t᷑neísi s ssiiuncore rrun jor jjrrle truís iíssẽ ̃ñt᷑neí᷑ur᷑iíke mũ destrer puisse acurser v͛s seíke k mũ ̃ñdestrer ddsspuisse iissssacurser ssv͛s vv͛er͛ssseíssiíde m espee le qͥd faire un espeíde d ddm espee m espee ssle qͥd ͥuͥddfaire iiun uuespeíssiíespiet/espoila nuit menga Rainuars ii. lardes et .ii. capons en un espoi boutésDe mon espietBWOt«lui [Rolland], si je le rencontrais au combat, ou en tout lieu où mon cheval pourrait courir à sa rencontre, je le transpercerais de mon épée, si bien qu'elle serait une broche à travers lui. »par mi le cors .ml̃t ert fort si nel pleípar mi par p mi iile cors rrss.ml̃t ml̃tuml̃t̃ert fort rrsi ssiinel pleíiírollãt rollãt rollãt r rr̃ñse ssrit iisi ssiireguarde ddle reiiisarazĩ frere fet rollãt l alosez
-tu poez bien dire tutes tes volẽtez
-ja pur franceis ne serras atuchez
-nun co dit charles puis ke v⁹ le volez
-de meie part est il bien afiez
-de huí en cest jor desk a uit jurs passez
-dist otuel de folie parlez
-ne redut hũme qͥ de mere seit nez
-tãt cũ av͛ai cest espee a mũ leez
-co est curcuse dũt jo sui adubez
-n en at míe uncore nef meis passez
-k a mil fͣnceis en ai les chefs colpez
-u fu co frere fet charles li remẽbrez
-dit otinel jo v⁹ dirra assez
-ore at uít meis el nefme sui ẽtrez
-destruite iert rõme ta vaillãte citez
-de laq̃le estes ẽꝑere clamez
-li reis garsie la pͥst e sis barnez
-vínt mil hũmes tut a cũte nũbrez
-hũmes q̃ fẽmes uncore plus assez
-i avíum mort n est un eschapez
-e jo i feri tãt de m espee de lez
-ke uit jurs pleners oi les poĩz ẽflez
-diẽt fͣnceis mar fustes unq̃s nez
-estult de lengres est en piez levez
-tínt un bastun q̃ devãt fu qͣrrez
-ja le ferist co savum n⁹ assez
-meis li níes charles en ẽꝯtre alez
-se lí a dit sire estult reposez
-pur meíe amur si de rien m amez
-kar li paen est de mei afiez
-laissez luí dire tutes ses volẽtez
-un chevaler i sist q̃ fu mal senez
-provẽcel iert de seínt gile fu nez
-al messag͛ est derere alez
-amduí ses puínz li at el chief mellez
-trait le a t͛re kar cil ne s est gardez
-meis otinel est ml̃t tost relevez
-trait curcuse dũt le pũz fu dorrez
-ferir le veit ne s est pas ubliez
-k as piez le rei ẽ est le chef colpez
-fͣnceis s escriẽt barũ kar le ꝑnez
-otinel s est a une part t᷑nez
-les oilz roille les gernuns a levez
-líun resemble qͥ seit ẽchaenez
-en halt s escrie baruns ne v⁹ remuez
-kar par icel dex a qͥ me suí donez
-ja murent set cenz si v⁹ croulez
-l emꝑere s en est en piez levez
-si luí a dit l espee me donez
-dit li paien de folie parlez
-dũc dist rodlant a mei la rendez
-assez l averez qͣnt v⁹ departirez
-dit otinel beal sire ore la tenez
-mes ml̃t v⁹ pri ke bien la me guardez
-ne la doreie p᷑ set de vos citez
-uncore en ert de celui vostre chief colpez
-dist rodlant par fei trop v⁹ avãtez
-vostre message dites puis v⁹ en alez
-jo volenters dist il ore escutez
-sarazĩ frere sarazĩ sarazĩ sssaaaiĩñfrere fet rollãt rollãt rollãt rr̃ñl alosezsstu poez bien dire tutes tes volẽteztu t poez bien iidire ddiitutes sstes ssvolẽtezvṽñja pur franceis ne serras atuchezja j jjpur franceis franceis iissne serras ssssatucheznun nun n nnco dit ddiicharles charles charles sspuis ke v⁹ le volezpuis iisske v⁹ vv⁹us⁹le volezde meie part est il bien afiezde d ddmeie iipart est ssil iibien iiafieziide huí en cest jor desk a uit jurs passezde d ddhuí iíen cest ssjor jjrrdesk ddssa uit uuiijurs jjsspassezssssdist d ddiissotuel otuel otuel de folie parlezde ddfolie iiparlezne redut hũme qͥ de mere seit nezne n nnredut ddhũme ̃m̃qͥ ͥuͥde ddmere seit ssiineztãt cũ av͛ai cest espee a mũ leeztãt t ̃ñcũ ̃m̃av͛ai vv͛er͛iicest ssespee ssa mũ ̃ñleezco est curcuse dũt jo sui adubezco c est sscurcuse curcuse ssercdũt dd̃ñjo jjsui ssiiadubezddn en at míe uncore nef meis passezn n nnen at míe iíuncore rrnef meis iisspassezssssk a mil fͣnceis en ai les chefs colpezk k a mil iifͣnceis fͣnceis ͣrͣiissen ai iiles sschefs sscolpezu fu co frere u u uufu co frere fet charles charles charles ssli iiremẽbrez̃m̃rrmembrezdit d ddiiotinel otinel otinel iijo v⁹ dirra assezjo jjv⁹ vv⁹us⁹dirra ddiiassezssssore at uít meis el nefme sui ẽtrezore o oorrat uít uuiímeis iissel nefme sui ssiiẽtrez̃ñdestruite iert rõme ta vaillãte citezdestruite d ddssiiiert iirõme rõme rr̃m̃ta vaillãte iĩñciteziide laq̃le estes ẽꝑere clamezde d ddlaq̃le q̃ueq̃estes ssssẽꝑere ̃m̃ꝑerꝑclamezli reis garsie la pͥst e sis barnezli l lliireis iissgarsie garsie garsie ggssiila pͥst ͥrͥsse sis ssiissbarnezvínt mil hũmes tut a cũte nũbrezvínt v iímil mmiihũmes ̃m̃sstut a cũte ̃ñnũbrez̃m̃rrhũmes q̃ fẽmes uncore plus assezhũmes h ̃m̃ssq̃ q̃ueq̃fẽmes ̃m̃ssuncore rrplus ssassezssssi avíum mort n est un eschapezi i iiavíum vviímort rrn nenest ssun eschapezsse jo i feri tãt de m espee de leze e jo jji iiferi iitãt ̃ñTant i feriAde ddm espee ssde ddlezke uit jurs pleners oi les poĩz ẽflezke k uit uuiijurs jjsspleners ssoi iiles sspoĩz iĩñẽflez̃ñen oidiẽt d ddiĩñfͣnceis fͣnceis ͣrͣiissmar fustes unq̃s nezmar fustes ssssunq̃s q̃ueq̃ssnezestult de lengres estult estult e ssde ddlengres lengres ssest sss'en esten piez iilevezvvtínt t iíun bastun ssq̃ q̃ueq̃devãt ddvṽñfu qͣrrezͣuͣja j jjle ferist iissco savum ssvvn⁹ ⁹us⁹assezssssmeis m mmiissli iiníes iísscharles charles charles ssen en B 1242, 1392B 1699li est encuntre alezA 1000est a l’encontre alezsi est ancontre alezli est encontre alési li est encuntre aléẽꝯtre ̃ñꝯcunꝯalezse s sslí iía dit ddiisire estult reposezsire ssiiestult estult estult eeessreposezsspur meíe amur si de rien m amezpur p meíe iíamur si ssiide ddrien iim amezkar li paen est de mei afiezkar k li iipaen est ssde ddmei iiafieziilaissez luí dire tutes ses volẽtezlaissez l lliissssluí iídire ddiitutes ssses ssssvolẽtezvṽñun u uuchevaler vvi iisist ssiissq̃ q̃ueq̃fu mal senezssprovẽcel provẽcel p vṽñiert iide ddseínt gile seínt ssiígile ggiifu nezal a aamessag͛ ssss͛ier͛est ssderere dd alezamduí a aaddiíses sssspuínz iíli iiat el chief iimelleztrait t iile a t͛re ͛er͛kar cil iine s ssest ssgardezddmeis m mmiissotinel otinel otinel iiest ssml̃t ml̃tuml̃t̃tost ssrelevezvvtrait t iicurcuse curcuse ssCureçusedũt dd̃ñle pũz ̃ñfu dorrezddrrferir f iile veit iine s ssest sspas ssublieziik k as sspiez iile rei iiẽ ̃ñest ssle chef colpezfͣnceis fͣnceis f ffͣrͣiisss ssescriẽt ssiĩñbarũ kar le ꝑnezbarũ ̃ñkar le ꝑnezꝑerꝑotinel otinel otinel o ooiis ssest ssa une part t᷑nez᷑ur᷑les l llssoilz iiroille iiles ssgernuns rssa levezvvlíun l lliíresemble ssqͥ ͥuͥseit ssiiẽchaenez̃ñen e halt s ssescrie ssii.baruns ne v⁹ remuezbaruns ssne v⁹ vv⁹us⁹remuezkar par icel dex a qͥ me suí donezkar k par icel icel iidex dda qͥ ͥuͥme suí ssiídonezddja murent set cenz si v⁹ croulezja j jjmurent set sscenz si ssiiv⁹ vv⁹us⁹croulezl l llliemꝑere ꝑerꝑs ssen est ssen piez iilevezvvsi s ssiiluí iía dit ddiil espee me donezl espee ssme donezdddit d ddiili iipaien iide folie parlezde ddfolie iiparlezdũc d dd̃ñdist ddiissrodlant rodlant rodlant rrdda mei la rendeza mei iila aarendezddassez l averez qͣnt v⁹ departirezassez a aassssl averez vvqͣnt ͣuͣv⁹ vv⁹us⁹departirezddiidit d ddiiotinel otinel otinel iibeal sire ore la tenezbeal sire ssiiore rrorla tenezmes ml̃t v⁹ pri ke bien la me guardezmes m mmssml̃t ml̃tuml̃t̃v⁹ vv⁹us⁹pri iike bien iila me guardezddne la doreie p᷑ set de vos citezne n nnla doreie ddrriip᷑ ᷑ur᷑set ssde ddvos vvssciteziiuncore en ert de celui vostre chief colpezuncore u uurren ert de celui de ddcelui iili vostre chiefvostre vvsschief iicolpezdist d ddiissrodlant rodlant rodlant rrddpar fei trop v⁹ avãtezpar fei iitrop v⁹ vv⁹us⁹avãtezavãtezvṽñvostre message dites puis v⁹ en alezvostre v ssmessage ssssdites ddiisspuis iissv⁹ vv⁹us⁹en alezjo volenters jo j jjvolenters vvssdist ddiissil iiore escutezore rrescutezsscharles feit il jo ne te celerai mie
-messag͛ suí l ẽꝑur garsie
-ki tient espaníe alixandre e bucie
-tyre e sydoníe perse e barbarie
-e destreint tut de si k en femelie
-par mei te mande leisse cristieníe
-cristiente ne valt une alíe
-mes serf mahun qͥ tut le mũde guíe
-ki si ne creít il feit gͣnt folie
-devienc sis tu e ta cõpaignie
-puis si t en víen al riche rei garsie
-il te dorra aver e manantíe
-ensurketut te larra normẽdie
-e d englet͛re les porz e la navie
-a tun nevu rodlant durra russie
-e oliv͛ prenge esclavuníe
-mes duce france ne v⁹ larra il mie
-i l at done florian de sulie
-fiz a cel rei russel de barbarie
-n at plus ꝓdom hum ẽ tute paienie
-ne q̃ tãt eit los de chevalerie
-ne qͥ meuz ferge od espee furbíe
-cil tendra france qͥte ẽ sa baillie
-dist l ẽꝑere issi n ert il míe
-k en dite v⁹ ma meisne nurie
-tut le barnage a une voiz escrie
-dreiz ẽꝑere n⁹ nel suffrum míe
-q̃ ja paien eient frãce en baillie
-mes fai venír ta gͣnt chevalerie
-puís se tu vols deske la n⁹ guíe
-tãt q̃ verrum la pute gẽt haie
-s en bataille trovũ le rei garsie
-ja de la teste n ẽ portera il mie
-dist otinel ore oí gͣnt briconie
-tel manace ore l ẽꝑur garsie
-k il matera e toldra la vie
-qͣnt il verra sa gͣnt chevalerie
-li plus hardi n avera talẽt qͥ l rie
-meuz voldreit estre dela normẽdie
-co dist dux naímes a la barbe florie
-si charles mãde sa gͣnt chevalerie
-u trov͛a il cel riche rei garsie
-cõbatereit sei a sa gͣnt ꝯpaingníe
-dist otinel ore oí gͣnt briconie
-ja sũt il par set feiz set cenz mile
-as blancs halbercs as ẽseingnes de sire
-k unq̃s ne fuirent p᷑ pour de lur vie
-une cite ont fete en lũbardie
-entre dous ewes l ont ferme e bastie
-paiene gent l apelent atelie
-deu ne fist hũme qͥ lur tolsist essie
-ne lur pescher ne lur gaanerie
-si charles i venist od la barbe flurie
-la conuistrũ ki av͛a amie
-ki meuz ferra d espee furbie
-meis dan vilein n í venez v⁹ míe
-par mun ꝯseil garderez paris la vile
-k escufle n í entre ne corneile ne pie
-kar par v⁹ n ert mes faite chevalerie
-tel vergoine at li duc ne set qͥ l die
-charles charles charles charles ccchssfeit iiil iijo ne te celerai mie.jo jjne te celerai iimieii.messag͛ suí l ẽꝑur garsiemessag͛ m mmssss͛ier͛suí ssiíl ẽꝑur ̃m̃ꝑerꝑemperëurgarsiegarsiegarsieggssiiki tient espaníe .alixandre .e bucie.ki k iitient iiespaníe espaníe ssií.alixandre alixandre iidd.e buciebucieii.tyre e sydoníe .perse .e barbarietyre tyre t e sydoníe sydoníe ssddií.perse perse ss.e barbariebarbarieiie destreint tut de si k en femeliee e destreint ddssiitut de ddsi ssiik en femeliefemelieiipar mei te mande leisse cristieníepar p mei iite mande ddleisse iisssscristieníeiissiiiícristiente ne valt une alíecristiente c cciissiine valt une alíeiímes serf mahun qͥ tut le mũde guíemes m mmssserf ssmahun mahun mahun mmqͥ ͥuͥtut le mũde ̃ñddguíeiíki si ne creít il feit gͣnt folieki k iisi ssiine creít iíil iifeit iigͣnt ͣrͣfolieiiBAdevienc sis tu e ta cõpaigniedevienc d ddiisis ssiisshoem Ahoemtu e ta cõpaigniẽm̃iiiipuis si t en víen al riche rei garsiepuis p iisssi ssiit en víen vviíal riche iirei iigarsiegarsiegarsieggssiiil te dorra aver e manantíeil i iite dorra ddrraver vve manantíeiíensurketut te larra normẽdieensurketut e sste larra normẽdienormẽdierr̃ñddiie d englet͛re les porz e la naviee e d ddenglet͛re englet͛re ͛er͛les ssporz rre la navieiia tun nevu rodlant durra russiea a aatun nevu vvrodlant rodlant rodlant rrdddurra ddrussierussiessssiie oliv͛ prenge esclavuníee e oliv͛ oliv͛ oliv͛ iivv͛er͛prenge prenge esclavuníeesclavuníessvviímes duce france ne v⁹ larra il miemes m mmssduce ddfrance france ne v⁹ vv⁹us⁹larra il iimieiii l at done florian de suliei i iil at done ddflorian de sulieflorian florian rriide de ddsuliesuliessiifiz a cel rei russel de barbariefiz f ffiia cel rei iirussel de barbarierussel russel ssssllde de ddbarbariebarbarieiin at plus ꝓdom ẽ tute paienien n nnat plus ssꝓdom ꝓroꝓddhum ẽ ̃ñtute paienieiiiine q̃ tãt eit los de chevaleriene n nnq̃ q̃ueq̃tãt ̃ñaeit iilos ssde ddchevalerievviine qͥ meuz ferge od espee furbíene n nnqͥ ͥuͥmeuz ferge od ddespee ssfurbíeiícil tendra france qͥte ẽ sa bailliecil c iitendra ddfrance france qͥte ͥuͥẽ ̃ñsa ssbaillieiiiidist d ddiissl ẽꝑere ̃m̃ꝑerꝑissi n ert il míeissi iissssiin nenert il iimíeiík en dite v⁹ ma meisne nuriek k en dite ddiiv⁹ vv⁹us⁹ma meisne iissmesnienurieiitut t le barnage a une uuvoiz vviiescriessiidreiz ẽꝑere n⁹ nel suffrum míedreiz d ddiiẽꝑere ̃m̃ꝑerꝑn⁹ ⁹us⁹nel suffrum sssuffrerummíeiíq̃ ja paien eient frãce en baillieq̃ q̃ q̃ueq̃ja jjpaien iieient iifrãce frãce ̃ñen baillieiiiimes fai venír ta gͣnt chevaleriemes m mmssfai iivenír vviíta gͣnt ͣrͣchevalerievviipuís se tu vols deske la n⁹ guíepuís p iíssse sstu vols vvssdeske ddssla n⁹ ⁹us⁹guíeggiíBAdeske la si nus guieGtãt q̃ verrum la pute gẽt haietãt t ̃ñq̃ q̃ueq̃verrum la pute gẽt ̃ñhaieiis en bataille trovũ le rei garsies s ssseen bataille iitrovũ vṽm̃le rei iigarsiegarsiegarsieggssiija de la teste n ẽ portera il mieja j jjde ddla teste ssn ẽ ̃ñportera rril iimieiidist d ddiissotinel otinel otinel iiore oí gͣnt briconieore rroí iígͣnt ͣrͣbriconieiiiitel manace ore l ẽꝑur garsietel t manace ore rrl ẽꝑur ̃m̃ꝑerꝑemperëurgarsiegarsiegarsieggssiik il matera e toldra la viek k il iimatera e toldra ddla vieiiqͣnt il verra sa gͣnt chevalerieqͣnt q qqͣuͣil iiverra vvsa ssgͣnt ͣrͣchevalerievviili plus hardi n avera talẽt qͥ l rieli l lliiplus sshardi ddiin avera vvtalẽt ̃ñqͥ ͥͥul rieiimeuz voldreit estre dela normẽdiemeuz m mmvoldreit vvddiiestre ssdela dd dela lanormẽdienormẽdierr̃ñddiico c ccdist ddiissdux ddnaímes naímes naímes nniíssa la barbe florierriisi charles mãde sa gͣnt chevaleriesi s ssiicharles charles charles ssmãde ̃ñddsa ssgͣnt ͣrͣchevalerievviiu trov͛a il cel riche rei garsieu u uutrov͛a vv͛er͛il iicel riche iirei iigarsiegarsiegarsieggssiicõbatereit sei a sa gͣnt ꝯpaingníecõbatereit c cc̃m̃iisei ssiia sa ssgͣnt ͣrͣꝯpaingníeꝯcomꝯiiiídist d ddiissotinel otinel otinel iiore oí gͣnt briconieore rroí iígͣnt ͣrͣbriconieiiiija sũt il par set feiz .set cenz mileja j jjsũt il sũt ss̃ñil iipar set ssfeiz ii.set sscenz mileiias blancs halbercs as ẽseingnes de sireas a aassblancs sshalbercs ssas ssẽseingnes ̃ñssiissde ddsiressiik unq̃s ne fuirent p᷑ pour de lur viek k unq̃s q̃ueq̃ssne fuirent iip᷑ ᷑ur᷑pour de ddlur vievviiune cite ont fete en lũbardieune u uucite iiont fete en lũbardielũbardiẽm̃ddiientre dous ewes l ont ferme e bastieentre e eedous ddssewes ssl ont ferme e bastiessiipaiene gent l apelent ateliepaiene p iigent l apelent atelieatelieaaiideu ne fist hũme qͥ lur tolsist essiedeu d ddne fist iisshũme ̃m̃qͥ ͥuͥlur tolsist ssiissessiessssiine lur pescher ne lur gaaneriene n nnlur pescher ssne lur gaanerieiisi charles i venist od la barbe fluriesi s ssiicharles charles charles ssi iivenist vviissod ddla barbe flurieiila conuistrũ ki av͛a amiela l llconuistrũ iiss̃m̃ki iiav͛a vv͛er͛eamieiiki meuz ferra d espee furbieki k iimeuz ferra d espee d ddespee ssfurbieiimeis dan vilein n í venez v⁹ míemeis m mmiissdan ddvilein vviiiin í iívenez vvv⁹ vv⁹us⁹míeiípar mun ꝯseil garderez paris la vilepar p mun ꝯseil ꝯcunꝯssiigarderez ddparis paris iissla vilevviik escufle n í entre ne corneile ne piek k escufle ssn í iíentre ne corneile rriine pieiikar par v⁹ n ert mes faite chevaleriekar kar k par v⁹ vv⁹us⁹n ert mes ssfaite iichevalerievviitel t vergoine vviiat li iiduc ddne set ssqͥ ͥͥul dieddiiBli duc rodlant s est en piez levez
-mal talẽt at a poí n est forsenez
-vers le paen s en est treis pas alez
-si lí a dit culvert desmesurez
-mult par t as ui e prisez e vantez
-de ta parole devãt franceis loez
-mes par celui k en croiz fu penez
-ja murriez ne fuissez afiez
-mes s en bataille puissez estre ẽꝯtrez
-tel te dorrai de m espee de lez
-ja puis de tei n ert franc hũme ẽꝯbrez
-dit otinel ja le savum assez
-bataille averas si feire l osez
-demaín matín v⁹ sumũs ẽ ces prez
-e dit rodlant kar le m aseurez
-fet le paen la meie fei tenez
-e ma creance e tutes mes lealtez
-par ki remaine seit cuard pruvez
-l espurũ lui seit des piez colpez
-james en curt ne seit mes honurez
-lur feiz en donent ore sũt asseurez
-li llliiiduc ddrodlant rodlant rodlant rrdds ssest ssen piez iilevezvvmal m mmtalẽt ̃ñat a poí iín est ssforsenezrrssvers v ssle paen s ssen est sstreis iisspas ssalezsi s ssiilí iía dit ddiiculvert desmesurezculvert vvdesmesurezddssssmult par t as ui e prisez e vantezmult m mmpar t as ssui uuiie prisez iisse vantezvvde ta parole devãt franceis loezde d ddta parole devãt ddvṽñfranceis franceis iissloezmes par celui k en croiz fu penezmes m mmsspar celui iik kien croiz iifu penezja murriez ne fuissez afiezja j jjmurriez iine fuissez iissssafieziimes s en bataille puissez estre ẽꝯtrezmes m mmsss ssen bataille iipuissez iissssestre ssẽꝯtrez̃ñꝯcunꝯtel te dorrai de m espee de leztel t te dorrai ddrriide ddm espee ssde dd lezja puis de tei n ert franc hũme ẽꝯbrezja j jjpuis iissde ddtei iin ert franc hũme ̃m̃ẽꝯbrez̃ñꝯcumꝯdit d ddiiotinel otinel otinel iija le savum assezja jjle savum ssvvassezssssbataille averas si feire l osezbataille b iiaveras vvsssi ssiifeire iil osezl osezssdemaín matín v⁹ sumũs ẽ ces prezdemaín d ddiímatín iív⁹ vv⁹us⁹sumũs ss̃ñssẽ ̃ñces sspreze e dit ddiirodlant rodlant rodlant rrddkar le m aseurezkar le m aseurezssfet f ffle paen la meie fei tenezla meie iifei iiteneze ma creance e tutes mes lealteze e ma creance e tutes ssmes sslealtezpar ki remaine seit cuard pruvezpar p ki iiremaine iiseit ssiicuard ddpruvezvvl espurũ lui seit des piez colpezl l llliespurũ ss̃ñlui iiseit ssiides ddsspiez iicolpezjames en curt ne seit mes honurezjames j jjssen curt ne seit ssiimes sshonurezlur l llfeiz iizen donent ddore rrorsũt ss̃ñasseurezssssco dist li reis charle de seint denís
-sarazin frere par la lei dũt tu vis
-de quel parage es tu en tun pais
-cum as a nun par ta lei kar me dis
-otinel sire co dist li sarazins
-fiz sui al rei galien al fier vis
-plus a mort hũmes e de ses maíns occis
-k um ne trovereit en trestut cest pais
-li reis garsie est mís germeins cusíns
-mis uncle fu fernagu li hardis
-icil de nazre q̃ rodlant m at occis
-demaín en ert en fier calenge mis
-e dit li reis tu es assez gẽtilz
-mar fu tis cors q̃ baptesme n at pͥs
-co cccooodist ddiissli iireis iisscharle de seint deníscharle charle de de ddseint denísseint ssiidenísddiíss.sarazin frere par la lei dũt tu vissarazin sarazin s ssiifrere par la lei iidũt dd̃ñtu visiissde quel parage es tu en tun paisde d ddquel parage es sstu en tun paisiisscum as a nun par ta lei kar me discum c as ssa nun par ta lei iikar me disddiissotinel sire otinel otinel otinel o ooiisire ssiico dist li sarazinsco dist ddiissli iisarazinssarazinsssiissfiz sui al rei galien al fier visfiz f ffiisui ssiial rei galien al fier visrei rei iigalien galien ggiial fier visal fier iivisiissplus a mort hũmes e de ses maíns occisplus p ssa mort rrhũmes ̃m̃sse de ddses ssssmaíns iíssoccisiissk um ne trovereit en trestut cest paisk k um ne trovereit vviien trestut sscest sspaisiissli reis garsie est mís germeins cusínsli l lliireis iissgarsie garsie garsie ggssiiest ssmís iíssgermeins iisscusínsssiíssmis uncle fu fernagu li hardismis m mmiissuncle uufu fernagu li hardisfernagu fernagu li hardisli iihardisddiissicil de nazre q̃ rodlant m at occisicil i iiiide ddnazre nazre q̃ q̃ueq̃rodlant rodlant rodlant rrddm at occisiissdemaín en ert en fier calenge misdemaín d ddiíen ert en fier iicalenge misiisse e dit ddiili iireis iisstu es assez gẽtilztu es ssassez ssssgẽtilz̃ñiimar fu tis cors q̃ baptesme n at pͥsmar m mmfu tis iisscors rrssq̃ q̃ueq̃baptesme ssn at pͥsͥrͥssli reis apele sun chãberlẽc reiner
-venez avant ꝑnez cest messag͛
-sil me menez a la maisun garner
-dunez al hoste cenz souz p᷑ son mãg͛
-e altre tãt donez p᷑ son destrier
-puís si apele le vielz chanu richer
-galter de líuns e lí deneis oger
-pernez feít il garde del chevaler
-sil servez bien de co qͥ l at mester
-li llliiireis iissapele sun sschãberlẽc ̃m̃̃ñreinerreinerreinerrriivenez avant ꝑnez cest messag͛venez v avant vvꝑnez ꝑerꝑcest ssmessag͛ssss͛ier͛sil me menez a la maisun garnersil s ssiime menez a la maisun iissgarnergarnergarnerdunez al hoste cenz souz p᷑ son mãg͛dunez d ddal hoste sscenz souz ssp᷑ ᷑ur᷑son ssmãg͛̃ñ͛ier͛e altre tãt donez p᷑ son destriere e altre tãt altre tãt ̃ñdonez ddp᷑ ᷑ur᷑son ssdestrierddssiipuís p iísssi ssiiapele le vielz iichanu richerricherricherrriigalter galter galter g ggde ddlíuns líuns iíss.e lí deneis ogerlí deneis lí iídeneis deneis ddiissogerogerpernez feít il garde del chevalerpernez p feít iíil iigarde dddel ddchevalervvsil servez bien de co qͥ l at mestersil s ssiiservez ssvvbien iide ddco qͥ ͥͥul at mestersscele nuít l unt leisse issi ester
-jesk al demein q̃ li jur parut cler
-charles se lieve si fait rodlant mãder
-en la chapele sũt ale pur urer
-la messe chante l abes de seint omer
-un hanap d or fait li reis aporter
-de paresíns si l at bien fet cũbler
-offrende funt il e li duze pier
-rodlant offri durendal al bͣnt cler
-pur rancũ i feit set mars doner
-ap͛s la messe funt les ures chanter
-del mustier eissent puis si vont esgarder
-le sarazin qͥ víent al rei parler
-ierercele c nuít iíl unt leisse iissssissi iissssiiesterssjesk j jjssal demein ddiiq̃ q̃ueq̃li iijur jjparut clercharles charles charles c ssse sslieve iivvsi ssiifait iirodlant rodlant rodlant rrddmãder̃ñdden e la chapele sũt ss̃ñale pur urerla l llmesse sssschante l abes ssde ddseint omerseint ssiiomerun u uuhanap d ddor rrfait iili iireis iissaporterrrde d ddparesíns ssiísssi ssiil at bien iifet cũbler̃m̃offrende o ooddfunt il iie li iiduze ddpieriirodlant rodlant rodlant r rrddoffri iidurendal durendal ddddal bͣnt ͣrͣclerpur p rancũ ̃ñraënçuni iifeit iiset ssmars ssdonerddap͛s a aa͛re͛ssla messe ssssfunt les ssures sschanterdel d ddmustier ssiieissent iisssspuis iisssi ssiivont vvesgarderssddle l llsarazin sarazin ssiiqͥ ͥuͥvíent vviíal rei iiparlerli sarazin víent orguillusemẽt
-le rei apele si li dit fiermẽt
-charles fait il u est ore rodlant
-li vostre níes q̃ v⁹ par amez tãt
-par ki franceis se vont asseurant
-de fei mẽti l apel cũ recreant
-se il ne tient vers mei mũ covenãt
-ke er feimes tute la curt veant
-a ces paroles se treit li qͦns avãt
-trestut irre e plein de maltalãt
-par cel apostle ki q̃rent penant
-jo ne larreie p᷑ nul hũme vívãt
-ke jo encui ne te rende teisant
-mat u vencu mort u recreant
-dist otinel feites dũc itant
-pernez vos armes par itel covenãt
-si jo v⁹ fail pendez moi jol v⁹ grant
-li llliiisarazin sarazin ssiivíent vviíorguillusemẽtrriiss̃ñle l llrei iiapele si ssiili iidit ddiifiermẽtiĩñfierementcharles charles charles charles c ssfait iiil iiu est ore rodlantu uuest ssore rrrodlantrodlantrodlantddli vostre níes q̃ v⁹ par amez tãtli l lliivostre vvssníes iíssq̃ q̃ueq̃v⁹ vv⁹us⁹par amez tãt̃ñpar ki franceis se vont asseurantpar p ki iifranceis franceis franceis iissse ssvont vvasseurantssssde fei mẽti l apel cũ recreantde d ddfei iimẽti ̃ñiil apel cũ ̃m̃recreantse il ne tient vers mei mũ covenãtse s ssil iine tient iivers vvssmei iimũ ̃ñcovenãtvṽñke er feimes tute la curt veantke k er feimes iisstute la curt veantvva a aaces ssparoles ssse sstreit iili iiqͦns ͦuͦssavãtvṽñtrestut t ssirre iie plein iide ddmaltalãt̃ñpar cel apostle ki q̃rent penantpar p cel apostle sski iiq̃rent q̃ueq̃penantpenëantjo ne larreie p᷑ nul hũme vívãtjo j jjne larreie iip᷑ ᷑ur᷑nul hũme ̃m̃vívãtvviívṽñke jo encui ne te rende teisantke k jo jjencui iine ne te rende ddteisantiissmat u vencu .mort u recreantmat m mmu vencu .u mort u recreantrendre le quidet u mort o recreantou vandu por auor ou mort ou afolétres ke je t'ai ou mort ou recreüque ieo i serreie u pris u mortque ieo serraie u mort u prisBinframort rru uurecreantdist d ddiissotinel otinel otinel iifeites dũc itantfeites iissdũc dd̃ñitantiipernez vos armes par itel covenãtpernez p vos vvssarmes sspar itel iicovenãtvṽñsi jo v⁹ fail pendez moi jol v⁹ grantsi s ssiijo jjv⁹ vv⁹us⁹fail iipendez ddmoi iijol v⁹ grantjol jjv⁹ vv⁹us⁹grantcrëanterB</TextLine>
+                         HEIGHT="173">
+                  <String CONTENT="paiene gent l apelent atelie"
+                          HPOS="2760"
+                          VPOS="5554"
+                          WIDTH="1305"
+                          HEIGHT="173"/>
+               </TextLine>
             </TextBlock>
          </PrintSpace>
       </Page>

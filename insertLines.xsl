@@ -21,6 +21,7 @@
     <xsl:variable name="docsIndexes">
         <index>
             <xsl:for-each select="$myCollection">
+                <xsl:sort select="tokenize(document-uri(.), '/')[last()]"/>
              <srcDoc>
                  <srcUri>
                      <xsl:value-of select="document-uri()"/>
@@ -55,7 +56,7 @@
     <xsl:template match="/">
         <!-- iterate over alto -->
         <xsl:for-each select="$myCollection[descendant::alto:alto]">
-            <xsl:copy-of select="$docsIndexes"></xsl:copy-of>
+            <xsl:copy-of select="$docsIndexes"/>
             <!-- Create output document -->
             <!--<xsl:value-of select="position()"/>
             <xsl:value-of select="concat(document-uri(.), '_out.xml')"/>-->
@@ -64,7 +65,6 @@
                 <xsl:text>/out/</xsl:text>
                 <xsl:value-of select="tokenize(document-uri(.), '/')[last()]"/>
             </xsl:variable>
-            
             <xsl:result-document href="{$outfile}">
                 <xsl:apply-templates select="descendant::alto:alto" mode="alto"/>
             </xsl:result-document>
@@ -72,8 +72,8 @@
     </xsl:template>
     
     
-    <xsl:template match="alto:TextLine" mode="alto">
-        
+    <!-- Consider only default text lines -->
+    <xsl:template match="alto:TextLine[@TAGREFS = ancestor::alto:alto/alto:Tags/alto:OtherTag[@LABEL='Default']/@ID]" mode="alto">
         <xsl:copy>
             <xsl:copy-of select="@*"/>
             <!-- Now, the crucial part: get the text line -->
@@ -83,42 +83,55 @@
             <xsl:variable name="myURI" select="document-uri(/)"/>
             <xsl:variable name="myPage"
                 select="$docsIndexes/descendant::srcDoc[srcUri = $myURI]/index"/>
-            <xsl:variable name="myLine" select="count(preceding::alto:TextLine) + 1"/>
-            
+            <xsl:variable name="myLine" 
+                select="count(preceding::alto:TextLine[@TAGREFS = ancestor::alto:alto/alto:Tags/alto:OtherTag[@LABEL='Default']/@ID]
+                ) + 1"/>
             <!-- Get the line in fulltext. Ugly too ;) -->
             <!-- DEBUG -->
             <!--<xsl:for-each select="$myPage">
                 <xsl:text>p. </xsl:text>
                 <xsl:value-of select="."/>
-            </xsl:for-each>
-            <xsl:text> and  </xsl:text>
-            <xsl:for-each select="$myLine">
+                </xsl:for-each>
+                <xsl:text> and  </xsl:text>
+                <xsl:for-each select="$myLine">
                 <xsl:text>l. </xsl:text>
                 <xsl:value-of select="."/>
-            </xsl:for-each>
-            <!-\- /DEBUG -\->
-            <!-\- WEIIIIRD behaviour with duplication of element -\->
-            <xsl:copy-of select="$teiText/tei:body/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage]/following::tei:lb[$myLine]"/>-->
+                </xsl:for-each>-->
+                <!-- /DEBUG -->
+                <!-- WEIIIIRD behaviour with duplication of element -->
+                <!--<xsl:copy-of select="$teiText/tei:body/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage]/following::tei:lb[$myLine]"/>-->
             <!-- DON'T BLOODY ASK ME WHY BUT 
-            $teiText/descendant::tei:pb[$myPage] creates duplicates
-            and
-            $teiText/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage] not
+                $teiText/descendant::tei:pb[$myPage] creates duplicates
+                and
+                $teiText/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage] not
             -->
-            <xsl:apply-templates select="
-                $teiText/descendant::element()[
-                generate-id(preceding-sibling::tei:lb[1])
-                =
-                generate-id($teiText/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage]/following::tei:lb[$myLine])
-                ]
-                " mode="#default"/>
-            
+            <xsl:apply-templates select="alto:Shape"/>
+            <xsl:element name="String" namespace="http://www.loc.gov/standards/alto/ns-v4#">
+                <xsl:attribute name="CONTENT">
+                    <xsl:variable name="myContent">
+                        <content>
+                            <xsl:choose>
+                                <xsl:when test="$teiText/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage]/following::tei:lb[$myLine]">
+                                    <xsl:apply-templates select="$teiText/descendant::element()[
+                                        generate-id(preceding-sibling::tei:lb[1])
+                                        =
+                                        generate-id($teiText/descendant::tei:pb[count(preceding::tei:pb)+1 = $myPage]/following::tei:lb[$myLine])
+                                        ]"/>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                    <xsl:text>[ERROR]</xsl:text>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </content>
+                    </xsl:variable>                              
+                    <xsl:apply-templates select="
+                        normalize-unicode(normalize-space($myContent))
+                        " mode="#default"/>
+                </xsl:attribute>
+                <!-- Get the other attributes -->
+                <xsl:copy-of select="alto:String/@*[not(local-name() = 'CONTENT')]"/>
+            </xsl:element>
         </xsl:copy>
-        
-       
-        
-        
     </xsl:template>
-    
-    
     
 </xsl:stylesheet>
