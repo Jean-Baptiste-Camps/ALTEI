@@ -52,6 +52,21 @@
     <!--<xsl:import href="libs/tei_to_txt_orig_all_chars.xsl"/>-->
     <!-- GRAPHEMATIC VERSION -->
     <xsl:import href="libs/tei_to_txt_abbr-graphem.xsl"/>
+    <!-- And simple modification here to have medieval (not normalised) graphic word segmentation -->
+    <xsl:template match="tei:w">
+        <xsl:apply-templates/>
+        <!-- If it is not the last on the line -->
+        <xsl:if
+            test="generate-id(.) != generate-id(ancestor::tei:l/descendant::tei:w[position() = last()]) and not(@rend)">
+            <xsl:text> </xsl:text>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="tei:hi[matches(@rend, 'detach')]">
+        <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+        <!-- Ajout d'un espace après les initiales détachées: paraît se justifier car souvent, le copiste traite la seconde lettre de la ligne comme une lettre de début de mot -->
+    </xsl:template>
+    
     
     <xsl:template match="/">
         <!-- iterate over alto -->
